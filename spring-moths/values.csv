@@ -1,0 +1,16 @@
+Character,CharacterState,CharacterStateTranslation,StateHelp
+ForewingShape,Very_narrow,Very Narrow,A very narrow fore wing
+ForewingShape,Narrow,Narrow,A Narrow fore wing
+ForewingShape,Typical,Typical,A typical shaped wing
+ForewingShape,Broad,Broad,A fairly broad fore wing
+ForewingShape,Very_broad,Very Broad,A very broad fore wing
+,,,
+,,,
+#NaturalFamily,none,All families included in options,Select a family to reduce the options
+NaturalFamily,Nepticulidae,,Typically with eye-caps and metallic wings. Wing length varies from 1.5-4.5mm
+NaturalFamily,Psychidae,,Small moths with a very variable wing length from 3-14mm.
+NaturalFamily,Tineidae,,At rest the wings are held at a steep angle to form eaves like a roof. Wing length from 3-16mm.
+NaturalFamily,Lyonetiidae,,Fore wings tend to be elongate and shining white. Wing length 2.5-4.5mm.
+NaturalFamily,Gracillariidea,,At rest the wings are held at a steep angle to form eaves like a roof.  Rests on forelegs inclining upwards. Wing length from 2-8.5mm.
+NaturalFamily,Epernenidae,,At rest the wings are held at a steep angle to form eaves like a roof. Antennae usually along the sides of the wings. Fore wings elonage with one or more scale tufts on the costal margin looking like crests when viewed side on. Wing length from 3.5-7.5mm.
+NaturalFamily,Noctuidae,,"Most have drab forewings, although some have brightly coloured hindwings. Differences between the sexes are usually few. Tend to be larger moths."

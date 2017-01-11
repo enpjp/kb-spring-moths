@@ -1,0 +1,13 @@
+URI,ImageWidth,Type,Priority,Caption,Taxon,Character,State
+# 'ForewingShape' character help images,,,,,,,
+resources/fore_wing_shape_very_narrow.png,100%,image-local,,Very narrow wing,,ForewingShape,Very_narrow
+resources/fore_wing_shape_narrow.png,100%,image-local,,Narrow wing,,ForewingShape,Narrow
+resources/fore_wing_shape_typical.png,100%,image-local,,Typical wing,,ForewingShape,Typical
+resources/fore_wing_shape_broad.png,100%,image-local,,Broad wing,,ForewingShape,Broad
+resources/fore_wing_shape_very_broad.png,100%,image-local,,Very broad wing,,ForewingShape,Very_broad
+,,,,,,,
+,,,,,,,
+,,,,,,,
+# Taxon HTML files…,,,,,,,
+#resources/stigmella_aurella.html,,html-local,,More Info,Stigmella aurella,,
+#resources/narycia_monilifera.html,,html-local,,More Info,Narycia monilifera,,
