@@ -4,8 +4,8 @@ ForewingShape,Narrow,Narrow,A Narrow fore wing
 ForewingShape,Typical,Typical,A typical shaped wing
 ForewingShape,Broad,Broad,A fairly broad fore wing
 ForewingShape,Very_broad,Very Broad,A very broad fore wing
-,,,
-,,,
+Posture,Wings Spread,Wings Spread,
+Posture,Wings across body,Wings across body,
 #NaturalFamily,none,All families included in options,Select a family to reduce the options
 NaturalFamily,Nepticulidae,,Typically with eye-caps and metallic wings. Wing length varies from 1.5-4.5mm
 NaturalFamily,Psychidae,,Small moths with a very variable wing length from 3-14mm.
