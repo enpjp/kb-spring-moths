@@ -4,8 +4,12 @@ ForewingShape,Narrow,Narrow,A Narrow fore wing
 ForewingShape,Typical,Typical,A typical shaped wing
 ForewingShape,Broad,Broad,A fairly broad fore wing
 ForewingShape,Very_broad,Very Broad,A very broad fore wing
-Posture,Wings Spread,Wings Spread,
-Posture,Wings across body,Wings across body,
+Posture,Wings_up,Wings held up or vertical,Wing held up or almost vertical
+Posture,Wings_spread,Wings Spread,Wings spread almost flat to the surface on which the moth is resting
+Posture,Wings_flat,Wings flat across body,Wings across the body and more or less parallel to the surface on which the moth is resting
+Posture,Wings_tentlike,Wings held tent-like,Wings held tent-like around body
+Posture,Wings_rolled,Wings rolled around body,Wings more or less rolled around the body
+,,,
 #NaturalFamily,none,All families included in options,Select a family to reduce the options
 NaturalFamily,Nepticulidae,,Typically with eye-caps and metallic wings. Wing length varies from 1.5-4.5mm
 NaturalFamily,Psychidae,,Small moths with a very variable wing length from 3-14mm.
@@ -14,3 +18,6 @@ NaturalFamily,Lyonetiidae,,Fore wings tend to be elongate and shining white. Win
 NaturalFamily,Gracillariidea,,At rest the wings are held at a steep angle to form eaves like a roof.  Rests on forelegs inclining upwards. Wing length from 2-8.5mm.
 NaturalFamily,Epernenidae,,At rest the wings are held at a steep angle to form eaves like a roof. Antennae usually along the sides of the wings. Fore wings elonage with one or more scale tufts on the costal margin looking like crests when viewed side on. Wing length from 3.5-7.5mm.
 NaturalFamily,Noctuidae,,"Most have drab forewings, although some have brightly coloured hindwings. Differences between the sexes are usually few. Tend to be larger moths."
+NaturalFamily,Arctiidae,,This family includes the tiger moths ermines and footman
+NaturalFamily,Lymatriidae,,The tussock moths. Often very hairy
+NaturalFamily,Geometridae,,Large family of common moths

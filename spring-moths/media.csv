@@ -6,7 +6,12 @@ resources/fore_wing_shape_typical.png,100%,image-local,,Typical wing,,ForewingSh
 resources/fore_wing_shape_broad.png,100%,image-local,,Broad wing,,ForewingShape,Broad
 resources/fore_wing_shape_very_broad.png,100%,image-local,,Very broad wing,,ForewingShape,Very_broad
 ,,,,,,,
-,,,,,,,
+# 'Posture' help images,,,,,,,
+resources/wings_up.png,100%,image-local,,Wings held up sometimes touching,,Posture,Wings_up
+resources/wings_spread.png,100%,image-local,,Wings spread out,,Posture,Wings_spread
+resources/wings_flat.png,100%,image-local,,Wings flat across body,,Posture,Wings_flat
+resources/wings_tentlike.png,100%,image-local,,Wings held tent like along the body ,,Posture,Wings_tentlike
+resources/wings_rolled.png,100%,image-local,,Wings more or less rolled around the body,,Posture,Wings_rolled
 ,,,,,,,
 # Taxon HTML files…,,,,,,,
 #resources/stigmella_aurella.html,,html-local,,More Info,Stigmella aurella,,
