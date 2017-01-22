@@ -6,6 +6,20 @@ resources/fore_wing_shape_typical.png,100%,image-local,,Typical wing,,ForewingSh
 resources/fore_wing_shape_broad.png,100%,image-local,,Broad wing,,ForewingShape,Broad
 resources/fore_wing_shape_very_broad.png,100%,image-local,,Very broad wing,,ForewingShape,Very_broad
 ,,,,,,,
+# 'ForewingColour' help images,,,,,,,
+resources/colours/colour-wheel.png,100%,image-local,,Colour wheel,,ForewingColour,
+resources/colours/red.png,100%,image-local,,Red,,ForewingColour,Red
+resources/colours/red-orange.png,100%,image-local,,Red-Orange,,ForewingColour,Red-Orange
+resources/colours/orange.png,100%,image-local,,Orange,,ForewingColour,Orange
+resources/colours/yellow-orange.png,100%,image-local,,Yellow-Orange,,ForewingColour,Yellow-Orange
+resources/colours/yellow.png,100%,image-local,,Yellow,,ForewingColour,Yellow
+resources/colours/yellow-green.png,100%,image-local,,Yellow-Green,,ForewingColour,Yellow-Green
+resources/colours/green.png,100%,image-local,,Green,,ForewingColour,Green
+resources/colours/blue-green.png,100%,image-local,,Blue-Green,,ForewingColour,Blue-Green
+resources/colours/blue.png,100%,image-local,,Blue,,ForewingColour,Blue
+resources/colours/greys.png,100%,image-local,,Greys,,ForewingColour,Greys
+,,,,,,,
+,,,,,,,
 # 'Posture' help images,,,,,,,
 resources/wings_up.png,100%,image-local,,Wings held up sometimes touching,,Posture,Wings_up
 resources/wings_spread.png,100%,image-local,,Wings spread out,,Posture,Wings_spread

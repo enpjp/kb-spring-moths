@@ -21,3 +21,14 @@ NaturalFamily,Noctuidae,,"Most have drab forewings, although some have brightly 
 NaturalFamily,Arctiidae,,This family includes the tiger moths ermines and footman
 NaturalFamily,Lymatriidae,,The tussock moths. Often very hairy
 NaturalFamily,Geometridae,,Large family of common moths
+,,,
+ForewingColour,Red,,Can include browns
+ForewingColour,Red-Orange,,Can include browns
+ForewingColour,Orange,,Can include browns
+ForewingColour,Yellow-Orange,,Can include browns
+ForewingColour,Yellow,,Can include browns
+ForewingColour,Yellow-Green,,Can quickly fade
+ForewingColour,Green,,Can quickly fade
+ForewingColour,Blue-Green,,Can quickly fade
+ForewingColour,Blue,,A rare colour in moths
+ForewingColour,Greys,,Includes Black or White moths

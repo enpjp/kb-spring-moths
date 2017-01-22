@@ -8,7 +8,7 @@ Natural,NaturalFamily,Family,Natural grouping of moths by family. Select to redu
 Size and Shape,Posture,Posture,Overall posture of moth,key,text,single,,8,,
 Wing,ForewingShape,Fore Wing Shape,Approximate Fore-wing Shape,key,ordinal,single,,3,2,
 Wing,ForewingLength,Fore Wing Length,Length in mm,key,numeric,spin,"1,100,1",8,2,
-Wing,ForewingColour,Fore Wing Colour,Ground colour,key,text,single,,5,,
+Wing,ForewingColour,Fore Wing Colour,Ground colour using a colour wheel to determine the nearest root colour. Try to ignore hues and shades created by adding black or white to the root colour.,key,text,single,,5,,
 Wing,CrossBand,Cross Band / Cross Line,Complete or interrupted band or line,key,text,single,,8,,
 Wing,TornalSpot,Tornal Spot,A marking at the tonal or angle of the wing,key,text,single,,8,,
 Wing,Costa,Costa,Leading edge of wing,key,text,single,,8,,

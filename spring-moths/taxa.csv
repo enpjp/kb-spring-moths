@@ -1,24 +1,24 @@
 BradleyFletcher,EU,Taxon,VernacularName,UtilityGroup,NaturalFamily,Posture,ForewingShape,ForewingLength,ForewingColour,CrossBand,TornalSpot,Costa,Dorsum,OtherFeatures
-0050,0152,Stigmella aurella,,Micro,Nepticulidae,,Narrow,[2-3],Metallic Copper | Metallic Purple,golden edged with blue/black,None,No distinctive marking,No distinctive marking,
-0175,0751,Narycia monilifera ,,Micro,Psychidae,,Narrow,[4-6],Dark Brown,Scattered pale yellow dots | Scattered pale yellow dots may form cross band,None,No distinctive marking,No distinctive marking,
-0181,0815,Taleporia tubulosa,,Micro,Psychidae,,Narrow,[7-10],"Greyish Brown, Scattered pale yellow dots",None,None,No distinctive marking,No distinctive marking,
+0050,0152,Stigmella aurella,,Micro,Nepticulidae,,Narrow,[2-3],Orange,golden edged with blue/black,None,No distinctive marking,No distinctive marking,
+0175,0751,Narycia monilifera ,,Micro,Psychidae,,Narrow,[4-6],Orange,Scattered pale yellow dots | Scattered pale yellow dots may form cross band,None,No distinctive marking,No distinctive marking,
+0181,0815,Taleporia tubulosa,,Micro,Psychidae,,Narrow,[7-10],Orange,None,None,No distinctive marking,No distinctive marking,
 0200,0729,Psychoides filicivora,,Micro,Tineidae,,Narrow,[4-6],Greyish Brown,None,Small triangular white spot,No distinctive marking,No distinctive marking,
-0224,0617,Triaxomera parasitella,,Micro,Tineidae,,Narrow,[7-11],"Brown, speckled with whitish and darker brown spots",None,None,No distinctive marking,No distinctive marking,
-0263,1627,Lyonetia clerkella,,Micro,Lyonetiidae,,Narrow,[4-4.5],Shining White with Orange Brown Spot,None,None,No distinctive marking,No distinctive marking,
-0281,1125,Caloptilia populetorum,,Micro,Gracillariidea,,Narrow,[6-7.5],Whitish | Brown | Dark Brown,None,None,Dark spot beyond one third.,Dark spot and one third and two thirds,
-0282,1116,Caloptilia elongella,,Micro,Gracillariidea,,Narrow,[7-8.5],Orange Brown | Orange | Yellowish Brown,None,None,Obscure pale blotch,No distinctive marking,
-0283,1112,Caloptilia betulicola,,Micro,Gracillariidea,,Narrow,[7-8.5],Orange Brown | Orange,None,None,Pale blotch,No distinctive marking,
-0284,1129,Caloptilia rufipennella,,Micro,Gracillariidea,,Very_narrow,[5-6],Orange Brown | Orange |Brown| Red Brown,None,None,None | Row of small black spots,No distinctive marking,Fore wing glossy
-0288,1127,Caloptilia stigmatella,,Micro,Gracillariidea,,Very_narrow,[6-7],Reddish Brown,None,None,Pale yellow triangular blotch | whitish triangular blotch,No distinctive marking,Extension to blotch narrowing towards dorsum
+0224,0617,Triaxomera parasitella,,Micro,Tineidae,,Narrow,[7-11],Orange,None,None,No distinctive marking,No distinctive marking,
+0263,1627,Lyonetia clerkella,,Micro,Lyonetiidae,,Narrow,[4-4.5],Greys,None,None,No distinctive marking,No distinctive marking,
+0281,1125,Caloptilia populetorum,,Micro,Gracillariidea,,Narrow,[6-7.5],Orange,None,None,Dark spot beyond one third.,Dark spot and one third and two thirds,
+0282,1116,Caloptilia elongella,,Micro,Gracillariidea,,Narrow,[7-8.5],Orange,None,None,Obscure pale blotch,No distinctive marking,
+0283,1112,Caloptilia betulicola,,Micro,Gracillariidea,,Narrow,[7-8.5],Orange,None,None,Pale blotch,No distinctive marking,
+0284,1129,Caloptilia rufipennella,,Micro,Gracillariidea,,Very_narrow,[5-6],Orange,None,None,None | Row of small black spots,No distinctive marking,Fore wing glossy
+0288,1127,Caloptilia stigmatella,,Micro,Gracillariidea,,Very_narrow,[6-7],Red,None,None,Pale yellow triangular blotch | whitish triangular blotch,No distinctive marking,Extension to blotch narrowing towards dorsum
 #0303,1178,Parornix anglicella ,,Micro,Gracillariidea,,Narrow,[4-4.5],,,,,,Needs gen. Det.
-0321,1274,Phyllonorycter messaniella,,Micro,Gracillariidea,,Narrow,[3-4.5],Shining Pale Golden Brown,None,,Four whitish streaks inwardly edged brown,Two whitish streaks inwardly edged brown,Black dot in apex
-0332a,1269,Phyllonorycter leucographella,Firethorn Leaf Miner,Micro,Gracillariidea,,Narrow,[3-4.5],Orange Brown,None,None,Four streaks,Two whitish streaks,White streak from base to one third
+0321,1274,Phyllonorycter messaniella,,Micro,Gracillariidea,,Narrow,[3-4.5],Yellow-Orange,None,,Four whitish streaks inwardly edged brown,Two whitish streaks inwardly edged brown,Black dot in apex
+0332a,1269,Phyllonorycter leucographella,Firethorn Leaf Miner,Micro,Gracillariidea,,Narrow,[3-4.5],Orange,None,None,Four streaks,Two whitish streaks,White streak from base to one third
 #0389,5282,Choreutis pariana ,Apple Leaf Skeletonizer,Micro,,,,,,,,,,
 #0445,,0445 Ocnerostoma friesei ,,Micro,,,,,,,,,,
 #0461,,0461 Ypsolopha ustella ,,Micro,,,,,,,,,,
 #0473,,0473 Acrolepiopsis assectella Leek Moth,,Micro,,,,,,,,,,
 #0476,,0476 Acrolepia autumnitella ,,Micro,,,,,,,,,,
-0483,5303,Epermenia chaerophyllella,,Micro,Epernenidae,,Narrow,[5.5-6],Blackish Brown,Dark oblique cross band,None,,Large black and brown scale tuft,Wing apex slightly hooked
+0483,5303,Epermenia chaerophyllella,,Micro,Epernenidae,,Narrow,[5.5-6],Orange,Dark oblique cross band,None,,Large black and brown scale tuft,Wing apex slightly hooked
 493,,0493 Coleophora serratella ,,Micro,,,,,,,,,,
 647,,0647 Hofmannophila pseudospretella Brown House Moth,,Micro,,,,,,,,,,
 648,,0648 Endrosis sarcitrella White-shouldered House Moth,,Micro,,,,,,,,,,
@@ -64,12 +64,12 @@ BradleyFletcher,EU,Taxon,VernacularName,UtilityGroup,NaturalFamily,Posture,Forew
 1927,,1927 Lycia hirtaria Brindled Beauty,,Macro | Flapper,Geometridae,Wings_spread,Typical,,,,,,,
 1930,,1930 Biston strataria Oak Beauty,,Macro | Flapper,Geometridae,Wings_spread,Typical,,,,,,,
 1932,,1932 Agriopis leucophaearia Spring Usher,,Macro | Flapper,Geometridae,Wings_spread,Typical,,,,,,,
-1934,70.255,Agriopis marginaria,Dotted Border,Macro | Flapper,Geometridae,Wings_spread,Typical,[16-20],Light Brown,Several faint cross lines,None,No distinctive marking,No distinctive marking,Distinctive row of dots along termen
-1935,70.256,Erannis defoliaria,Mottled Umber,Macro | Flapper,Geometridae,Wings_spread,Typical,[18-25],Light Brown | Brown,Several Dark Crosslines,None,No distinctive marking,No distinctive marking,
-1947,70.270,Ectropis bistortata,Engrailed,Macro | Flapper,Geometridae,Wings_up | Wings_spread,Typical,[15-22],Light Brown | Brown | Grey Brown,Several Dark Crosslines,None,No distinctive marking,No distinctive marking,
-1960,70.282,Theria primaria,Early Moth,Macro | Flapper,Geometridae,Wings_up | Wings_spread,Typical,[14-17],Brown,Several pale crosslines,None,No distinctive marking,No distinctive marking,Darker central spot.
-2028,72.015,Calliteara pudibunda,Pale Tussock,Macro | Buzzer,Lymatriidae,Wings_tentlike | Wings_flat,Typical,[21-22],Grey,Several darker crossbands,None,No distinctive marking,No distinctive marking,Fore legs often stretched forwards
-2050,72.045,Eilema lurideola,Common Footman,Macro | Buzzer,Arctiidae,Wings_flat | Wings_rolled,Narrow,[14-17],Grey,None,None,Yellow strip,No distinctive marking,Yellow stripe narrows towards wing tip
+1934,70.255,Agriopis marginaria,Dotted Border,Macro | Flapper,Geometridae,Wings_spread,Typical,[16-20],Orange,Several faint cross lines,None,No distinctive marking,No distinctive marking,Distinctive row of dots along termen
+1935,70.256,Erannis defoliaria,Mottled Umber,Macro | Flapper,Geometridae,Wings_spread,Typical,[18-25],Orange,Several Dark Crosslines,None,No distinctive marking,No distinctive marking,
+1947,70.270,Ectropis bistortata,Engrailed,Macro | Flapper,Geometridae,Wings_up | Wings_spread,Typical,[15-22],Orange,Several Dark Crosslines,None,No distinctive marking,No distinctive marking,
+1960,70.282,Theria primaria,Early Moth,Macro | Flapper,Geometridae,Wings_up | Wings_spread,Typical,[14-17],Orange,Several pale crosslines,None,No distinctive marking,No distinctive marking,Darker central spot.
+2028,72.015,Calliteara pudibunda,Pale Tussock,Macro | Buzzer,Lymatriidae,Wings_tentlike | Wings_flat,Typical,[21-22],Greys,Several darker crossbands,None,No distinctive marking,No distinctive marking,Fore legs often stretched forwards
+2050,72.045,Eilema lurideola,Common Footman,Macro | Buzzer,Arctiidae,Wings_flat | Wings_rolled,Narrow,[14-17],Greys,None,None,Yellow strip,No distinctive marking,Yellow stripe narrows towards wing tip
 2107,,2107 Noctua pronuba Large Yellow Underwing,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
 2126,,2126 Xestia c-nigrum Setaceous Hebrew Character,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
 2139,,2139 Cerastis rubricosa Red Chestnut,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
