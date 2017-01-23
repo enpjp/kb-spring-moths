@@ -70,31 +70,31 @@ BradleyFletcher,EU,Taxon,VernacularName,UtilityGroup,NaturalFamily,Posture,Forew
 1960,70.282,Theria primaria,Early Moth,Macro | Flapper,Geometridae,Wings_up | Wings_spread,Typical,[14-17],Orange,Several pale crosslines,None,No distinctive marking,No distinctive marking,Darker central spot.
 2028,72.015,Calliteara pudibunda,Pale Tussock,Macro | Buzzer,Lymatriidae,Wings_tentlike | Wings_flat,Typical,[21-22],Greys,Several darker crossbands,None,No distinctive marking,No distinctive marking,Fore legs often stretched forwards
 2050,72.045,Eilema lurideola,Common Footman,Macro | Buzzer,Arctiidae,Wings_flat | Wings_rolled,Narrow,[14-17],Greys,None,None,Yellow strip,No distinctive marking,Yellow stripe narrows towards wing tip
-2107,,2107 Noctua pronuba Large Yellow Underwing,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2126,,2126 Xestia c-nigrum Setaceous Hebrew Character,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2139,,2139 Cerastis rubricosa Red Chestnut,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2179,,2179 Panolis flammea Pine Beauty,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2182,,2182 Orthosia cruda Small Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2183,,2183 Orthosia miniosa Blossom Underwing,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2185,,2185 Orthosia populeti Lead-coloured Drab,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2186,,2186 Orthosia gracilis Powdered Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2187,,2187 Orthosia cerasi Common Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2188,,2188 Orthosia incerta Clouded Drab,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2189,,2189 Orthosia munda Twin-spotted Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2190,,2190 Orthosia gothica Hebrew Character,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2232,,2232 Aporophyla nigra Black Rustic,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2235,,2235 Lithophane semibrunnea Tawny Pinion,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2236,,2236 Lithophane hepatica Pale Pinion,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2237,,2237 Lithophane ornitopus Grey Shoulder-knot,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2243,,2243 Xylocampa areola Early Grey,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2256,,2256 Eupsilia transversa Satellite,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2258,,2258 Conistra vaccinii Chestnut,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,,,,,,
-2259,73.195,Conistra ligula,Dark Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[13-15],Dark Chestnut | Blackish Brown,Faint lighter cross bands,None,No distinctive marking,No distinctive marking,Fore wing slightly pointed
-2260,73.197,Conistra rubiginea,Dotted Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-17],Brick Red | Chestnut | Orange,None,None,No distinctive marking,No distinctive marking,Heavy spotting over fore wing
-2263,73.189,Agrochola lota,Red-line Quaker,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-18],Pale Brown | Grey,Red tinged cross line,None,No distinctive marking,No distinctive marking,Small dark spot on fore wing
-2300,9490,Mormo maura,Old Lady,Macro | Buzzer,Noctuidae,Wings_flat,Very_broad,[30-36],Pale Brown | Dark Brown,Darker cross band,None,Series of darker spots along costa,No distinctive marking,Scalloped outer edge
-2306,9505,Phlogophora meticulosa,Angle Shades,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[21-25],Pinkish Brown | Light Brown | Olive Green,Darker V shaped cross band,None,No distinctive marking,No distinctive marking,Several folds on length of wing
-2361,9834,Hydraecia micacea,Rosy Rustic,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[14-21],Pinkish Brown | Light Brown,Darker cross band,None,No distinctive marking,No distinctive marking,Quite pointed fore wing
-2434,9045,Diachrysia chrysitis,Burnished Brass,Macro | Buzzer,Noctuidae,Wings_flat,Broad,[16-19],Light Brown | Dark Brown,Brassy Yellow,None,No distinctive marking,No distinctive marking,
-2441,9056,Autographa gamma,Silver Y,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[13-21],Marbled Brown | marbled Grey,Silver Y shaped mark,None,No distinctive marking,No distinctive marking,Very variable colour.
-2469,8984,Scoliopteryx libatrix ,Herald,Macro | Buzzer,Noctuidae,Wings_flat,Broad,[19-23],Light Brown | Dark Brown,Several white cross lines,Wavy line towards tornus,Two white spots inside costa,No distinctive marking,Deeply scalloped outer edge. Some orange towards inner two thirds.
+2107,,2107 Noctua pronuba Large Yellow Underwing,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Greys | Red | Red-Orange | Orange,,,,,
+2126,,2126 Xestia c-nigrum Setaceous Hebrew Character,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Greys,,,,,
+2139,,2139 Cerastis rubricosa Red Chestnut,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Red | Red-Orange,,,,,
+2179,,2179 Panolis flammea Pine Beauty,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Red | Red-Orange | Yellow-Orange,,,,,
+2182,,2182 Orthosia cruda Small Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Orange | Yellow-Orange,,,,,
+2183,,2183 Orthosia miniosa Blossom Underwing,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Orange,,,,,
+2185,,2185 Orthosia populeti Lead-coloured Drab,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Greys | Orange,,,,,
+2186,,2186 Orthosia gracilis Powdered Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Yellow-Orange| Greys,,,,,
+2187,,2187 Orthosia cerasi Common Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Red-Orange | Orange | Yellow-Orange,,,,,
+2188,,2188 Orthosia incerta Clouded Drab,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Red | Red-Orange | Orange,,,,,
+2189,,2189 Orthosia munda Twin-spotted Quaker,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Orange | Yellow-Orange,,,,,
+2190,,2190 Orthosia gothica Hebrew Character,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Orange | Greys,,,,,
+2232,,2232 Aporophyla nigra Black Rustic,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Greys,,,,,
+2235,,2235 Lithophane semibrunnea Tawny Pinion,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Red-Orange,,,,,
+2236,,2236 Lithophane hepatica Pale Pinion,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Greys,,,,,
+2237,,2237 Lithophane ornitopus Grey Shoulder-knot,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Greys,,,,,
+2243,,2243 Xylocampa areola Early Grey,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Greys,,,,,
+2256,,2256 Eupsilia transversa Satellite,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Red-Orange | Orange,,,,,
+2258,,2258 Conistra vaccinii Chestnut,,Macro | Buzzer,Noctuidae,Wings_flat,Typical,,Red-Orange | Orange,,,,,
+2259,73.195,Conistra ligula,Dark Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[13-15],Red | Red-Orange | Orange,Faint lighter cross bands,None,No distinctive marking,No distinctive marking,Fore wing slightly pointed
+2260,73.197,Conistra rubiginea,Dotted Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-17],Red | Red-Orange | Orange,None,None,No distinctive marking,No distinctive marking,Heavy spotting over fore wing
+2263,73.189,Agrochola lota,Red-line Quaker,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-18],Red-Orange | Orange,Red tinged cross line,None,No distinctive marking,No distinctive marking,Small dark spot on fore wing
+2300,9490,Mormo maura,Old Lady,Macro | Buzzer,Noctuidae,Wings_flat,Very_broad,[30-36],Red-Orange | Orange,Darker cross band,None,Series of darker spots along costa,No distinctive marking,Scalloped outer edge
+2306,9505,Phlogophora meticulosa,Angle Shades,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[21-25],Red | Red-Orange | Yellow-Orange | Yellow| Yellow-Green,Darker V shaped cross band,None,No distinctive marking,No distinctive marking,Several folds on length of wing
+2361,9834,Hydraecia micacea,Rosy Rustic,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[14-21],Red | Red-Orange,Darker cross band,None,No distinctive marking,No distinctive marking,Quite pointed fore wing
+2434,9045,Diachrysia chrysitis,Burnished Brass,Macro | Buzzer,Noctuidae,Wings_flat,Broad,[16-19],Orange | Yellow-Orange,Brassy Yellow,None,No distinctive marking,No distinctive marking,
+2441,9056,Autographa gamma,Silver Y,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[13-21],Red-Orange | Orange,Silver Y shaped mark,None,No distinctive marking,No distinctive marking,Very variable colour.
+2469,8984,Scoliopteryx libatrix ,Herald,Macro | Buzzer,Noctuidae,Wings_flat,Broad,[19-23],Red-Orange | Orange,Several white cross lines,Wavy line towards tornus,Two white spots inside costa,No distinctive marking,Deeply scalloped outer edge. Some orange towards inner two thirds.
