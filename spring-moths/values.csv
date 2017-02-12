@@ -1,46 +1,260 @@
-Character,CharacterState,CharacterStateTranslation,StateHelp
-ForewingShape,Very_narrow,Very Narrow,A very narrow fore wing
-ForewingShape,Narrow,Narrow,A Narrow fore wing
-ForewingShape,Typical,Typical,A typical shaped wing
-ForewingShape,Broad,Broad,A fairly broad fore wing
-ForewingShape,Very_broad,Very Broad,A very broad fore wing
-Posture,Wings_up,Wings held up or vertical,Wing held up or almost vertical
-Posture,Wings_spread,Wings Spread,Wings spread almost flat to the surface on which the moth is resting
-Posture,Wings_flat,Wings flat across body,Wings across the body and more or less parallel to the surface on which the moth is resting
-Posture,Wings_tentlike,Wings held tent-like,Wings held tent-like around body
-Posture,Wings_rolled,Wings rolled around body,Wings more or less rolled around the body
-,,,
-#NaturalFamily,none,All families included in options,Select a family to reduce the options
-NaturalFamily,Nepticulidae,,Typically with eye-caps and metallic wings. Wing length varies from 1.5-4.5mm
-NaturalFamily,Psychidae,,Small moths with a very variable wing length from 3-14mm.
-NaturalFamily,Tineidae,,At rest the wings are held at a steep angle to form eaves like a roof. Wing length from 3-16mm.
-NaturalFamily,Lyonetiidae,,Fore wings tend to be elongate and shining white. Wing length 2.5-4.5mm.
-NaturalFamily,Gracillariidea,,At rest the wings are held at a steep angle to form eaves like a roof.  Rests on forelegs inclining upwards. Wing length from 2-8.5mm.
-NaturalFamily,Epernenidae,,At rest the wings are held at a steep angle to form eaves like a roof. Antennae usually along the sides of the wings. Fore wings elonage with one or more scale tufts on the costal margin looking like crests when viewed side on. Wing length from 3.5-7.5mm.
-NaturalFamily,Noctuidae,,"Most have drab forewings, although some have brightly coloured hindwings. Differences between the sexes are usually few. Tend to be larger moths."
-NaturalFamily,Arctiidae,,This family includes the tiger moths ermines and footman
-NaturalFamily,Lymatriidae,,The tussock moths. Often very hairy
-NaturalFamily,Geometridae,,Large family of common moths
-NaturalFamily,Lasiocampidae,,The drinker moths
-NaturalFamily,Pterophoridae,,Plume Moths
-NaturalFamily,Pyralidae,,Pyralidae typically rest with the antenae resting the length of the body 
-NaturalFamily,Alucitidae,,The Twenty Plume Moth
-NaturalFamily,Tortricidae,,Large family of small moths
-NaturalFamily,Momphidae,,A family of small moths
-NaturalFamily,Blastobasidae,,A family of small moths
-NaturalFamily,Depressariidae,,A family of small moths
-NaturalFamily,Chimabachidae,,A family of small moths
-NaturalFamily,Oecophoridae,,A family of small moths
+"Character","CharacterState","CharacterStateTranslation","StateHelp"
+"ForewingShape","Very_narrow","Very Narrow","A very narrow fore wing"
+"ForewingShape","Narrow","Narrow","A Narrow fore wing"
+"ForewingShape","Typical","Typical","A typical shaped wing"
+"ForewingShape","Broad","Broad","A fairly broad fore wing"
+"ForewingShape","Very_broad","Very Broad","A very broad fore wing"
+"Posture","Wings_up","Wings held up or vertical","Wing held up or almost vertical"
+"Posture","Wings_spread","Wings Spread","Wings spread almost flat to the surface on which the moth is resting"
+"Posture","Wings_flat","Wings flat across body","Wings across the body and more or less parallel to the surface on which the moth is resting"
+"Posture","Wings_tentlike","Wings held tent-like","Wings held tent-like around body"
+"Posture","Wings_rolled","Wings rolled around body","Wings more or less rolled around the body"
+"Texture","Matte","Matte",
+"Texture","Shiny","Shiny",
+"Texture","Glossy","Glossy",
+"Texture","Metallic","Metallic",
 ,,,
 ,,,
 ,,,
-ForewingColour,Red,,Can include browns
-ForewingColour,Red-Orange,,Orange browns
-ForewingColour,Orange,,Can include browns
-ForewingColour,Yellow-Orange,,Can include browns
-ForewingColour,Yellow,,Can include browns
-ForewingColour,Yellow-Green,,Can quickly fade
-ForewingColour,Green,,Can quickly fade
-ForewingColour,Blue-Green,,Can quickly fade
-ForewingColour,Blue,,A rare colour in moths
-ForewingColour,Greys,,Includes Black or White moths
+,,,
+"#Transverse Characters",,,
+"Basal","None","None","Plain"
+"Basal","Dotted","Random dots","Random dots"
+"Basal","Dots","Dots","Row(s) of Dots"
+"Basal","Line","Line","One or more lines"
+"Basal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Basal","Fascia","Fascia","Broad band"
+"Basal","Dot","Dot","Single dot"
+"Basal","Macula","Macula / Blotch","Area of contrasting colour."
+"Basal","Streak","Streak",
+"Basal","Striae","Striae Streaks",
+"Basal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Basal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Basal","Reniform_stigma","Kidney shaped spot",
+"Basal","Stigma","Other shaped stigma",
+,,,
+"Antemedian","None","None","Plain"
+"Antemedian","Dotted","Random dots","Random dots"
+"Antemedian","Dots","Dots","Row(s) of Dots"
+"Antemedian","Line","Line","One or more lines"
+"Antemedian","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Antemedian","Fascia","Fascia","Broad band"
+"Antemedian","Dot","Dot","Single dot"
+"Antemedian","Macula","Macula / Blotch","Area of contrasting colour."
+"Antemedian","Streak","Streak",
+"Antemedian","Striae","Striae Streaks",
+"Antemedian","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Antemedian","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Antemedian","Reniform_stigma","Kidney shaped spot",
+"Antemedian","Stigma","Other shaped stigma",
+,,,
+"Median","None","None","Plain"
+"Median","Dotted","Random dots","Random dots"
+"Median","Dots","Dots","Row(s) of Dots"
+"Median","Line","Line","One or more lines"
+"Median","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Median","Fascia","Fascia","Broad band"
+"Median","Dot","Dot","Single dot"
+"Median","Macula","Macula / Blotch","Area of contrasting colour."
+"Median","Streak","Streak",
+"Median","Striae","Striae Streaks",
+"Median","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Median","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Median","Reniform_stigma","Kidney shaped spot",
+"Median","Stigma","Other shaped stigma",
+,,,
+,,,
+"Postmedian","None","None","Plain"
+"Postmedian","Dotted","Random dots","Random dots"
+"Postmedian","Dots","Dots","Row(s) of Dots"
+"Postmedian","Line","Line","One or more lines"
+"Postmedian","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Postmedian","Fascia","Fascia","Broad band"
+"Postmedian","Dot","Dot","Single dot"
+"Postmedian","Macula","Macula / Blotch","Area of contrasting colour."
+"Postmedian","Streak","Streak",
+"Postmedian","Striae","Striae Streaks",
+"Postmedian","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Postmedian","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Postmedian","Reniform_stigma","Kidney shaped spot",
+"Postmedian","Stigma","Other shaped stigma",
+,,,
+,,,
+"Terminal","None","None","Plain"
+"Terminal","Dotted","Random dots","Random dots"
+"Terminal","Dots","Dots","Row(s) of Dots"
+"Terminal","Line","Line","One or more lines"
+"Terminal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Terminal","Fascia","Fascia","Broad band"
+"Terminal","Dot","Dot","Single dot"
+"Terminal","Macula","Macula / Blotch","Area of contrasting colour."
+"Terminal","Streak","Streak",
+"Terminal","Striae","Striae Streaks",
+"Terminal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Terminal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Terminal","Reniform_stigma","Kidney shaped spot",
+"Terminal","Stigma","Other shaped stigma",
+,,,
+"#Apex  Characters",,,
+"Apical","None","None",
+"Apical","Dot","Dot","Single dot"
+"Apical","Dots","Dots",
+"Apical","Line","Line","One or more lines"
+"Apical","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Apical","Streak","Streak",
+"Apical","Striae","Striae Streaks",
+"Apical","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Apical","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Apical","Reniform_stigma","Kidney shaped spot",
+"Apical","Stigma","Other shaped stigma",
+"Apical","Macula","Macula / Blotch","Area of contrasting colour."
+"Subapical","None","None",
+"Subapical","Dot","Dot","Single dot"
+"Subapical","Dots","Dots",
+"Subapical","Line","Line","One or more lines"
+"Subapical","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subapical","Streak","Streak",
+"Subapical","Striae","Striae Streaks",
+"Subapical","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Subapical","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Subapical","Reniform_stigma","Kidney shaped spot",
+"Subapical","Stigma","Other shaped stigma",
+"Subapical","Macula","Macula / Blotch","Area of contrasting colour."
+"Tornal","None","None",
+"Tornal","Dot","Dot","Single dot"
+"Tornal","Dots","Dots",
+"Tornal","Line","Line","One or more lines"
+"Tornal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Tornal","Streak","Streak",
+"Tornal","Striae","Striae Streaks",
+"Tornal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Tornal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Tornal","Reniform_stigma","Kidney shaped spot",
+"Tornal","Stigma","Other shaped stigma",
+"Tornal","Macula","Macula / Blotch","Area of contrasting colour."
+"Subtornal","None","None",
+"Subtornal","Dot","Dot","Single dot"
+"Subtornal","Dots","Dots",
+"Subtornal","Line","Line","One or more lines"
+"Subtornal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subtornal","Streak","Streak",
+"Subtornal","Striae","Striae Streaks",
+"Subtornal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Subtornal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Subtornal","Reniform_stigma","Kidney shaped spot",
+"Subtornal","Stigma","Other shaped stigma",
+"Subtornal","Macula","Macula / Blotch","Area of contrasting colour."
+,,,
+,,,
+,,,
+,,,
+,,,
+"#Longitudinal Characters",,,
+"Costal","None","None",
+"Costal","Dot","Dot","Single dot"
+"Costal","Dots","Dots",
+"Costal","Line","Line","One or more lines"
+"Costal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Costal","Streak","Streak",
+"Costal","Striae","Striae Streaks",
+"Costal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Costal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Costal","Reniform_stigma","Kidney shaped spot",
+"Costal","Stigma","Other shaped stigma",
+"Costal","Macula","Macula / Blotch","Area of contrasting colour."
+"Costal","Fascia","Fascia","Broad band"
+,,,
+"Subcostal","None","None",
+"Subcostal","Dot","Dot","Single dot"
+"Subcostal","Dots","Dots",
+"Subcostal","Line","Line","One or more lines"
+"Subcostal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subcostal","Streak","Streak",
+"Subcostal","Striae","Striae Streaks",
+"Subcostal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Subcostal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Subcostal","Reniform_stigma","Kidney shaped spot",
+"Subcostal","Stigma","Other shaped stigma",
+"Subcostal","Macula","Macula / Blotch","Area of contrasting colour."
+"Subcostal","Fascia","Fascia","Broad band"
+,,,
+,,,
+"Medial","None","None",
+"Medial","Dot","Dot","Single dot"
+"Medial","Dots","Dots",
+"Medial","Line","Line","One or more lines"
+"Medial","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Medial","Streak","Streak",
+"Medial","Striae","Striae Streaks",
+"Medial","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Medial","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Medial","Reniform_stigma","Kidney shaped spot",
+"Medial","Stigma","Other shaped stigma",
+"Medial","Macula","Macula / Blotch","Area of contrasting colour."
+"Medial","Fascia","Fascia","Broad band"
+,,,
+,,,
+"Subdorsal","None","None",
+"Subdorsal","Dot","Dot","Single dot"
+"Subdorsal","Dots","Dots",
+"Subdorsal","Line","Line","One or more lines"
+"Subdorsal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subdorsal","Streak","Streak",
+"Subdorsal","Striae","Striae Streaks",
+"Subdorsal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Subdorsal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Subdorsal","Reniform_stigma","Kidney shaped spot",
+"Subdorsal","Stigma","Other shaped stigma",
+"Subdorsal","Macula","Macula / Blotch","Area of contrasting colour."
+"Subdorsal","Fascia","Fascia","Broad band"
+,,,
+,,,
+"Dorsal","None","None",
+"Dorsal","Dot","Dot","Single dot"
+"Dorsal","Dots","Dots",
+"Dorsal","Line","Line","One or more lines"
+"Dorsal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Dorsal","Streak","Streak",
+"Dorsal","Striae","Striae Streaks",
+"Dorsal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"Dorsal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"Dorsal","Reniform_stigma","Kidney shaped spot",
+"Dorsal","Reniform_stigma","Other shaped stigma",
+"Dorsal","Macula","Macula / Blotch","Area of contrasting colour."
+"Dorsal","Fascia","Fascia","Broad band"
+"Dorsal","Stigma","Other shaped stigma",
+,,,
+"#NaturalFamily","none","All families included in options","Select a family to reduce the options"
+"#NaturalFamily","Nepticulidae",,"Typically with eye-caps and metallic wings. Wing length varies from 1.5-4.5mm"
+"#NaturalFamily","Psychidae",,"Small moths with a very variable wing length from 3-14mm."
+"#NaturalFamily","Tineidae",,"At rest the wings are held at a steep angle to form eaves like a roof. Wing length from 3-16mm."
+"#NaturalFamily","Lyonetiidae",,"Fore wings tend to be elongate and shining white. Wing length 2.5-4.5mm."
+"#NaturalFamily","Gracillariidea",,"At rest the wings are held at a steep angle to form eaves like a roof.  Rests on forelegs inclining upwards. Wing length from 2-8.5mm."
+"#NaturalFamily","Epernenidae",,"At rest the wings are held at a steep angle to form eaves like a roof. Antennae usually along the sides of the wings. Fore wings elonage with one or more scale tufts on the costal margin looking like crests when viewed side on. Wing length from 3.5-7.5mm."
+"#NaturalFamily","Noctuidae",,"Most have drab forewings, although some have brightly coloured hindwings. Differences between the sexes are usually few. Tend to be larger moths."
+"#NaturalFamily","Arctiidae",,"This family includes the tiger moths ermines and footman"
+"#NaturalFamily","Lymatriidae",,"The tussock moths. Often very hairy"
+"#NaturalFamily","Geometridae",,"Large family of common moths"
+"#NaturalFamily","Lasiocampidae",,"The drinker moths"
+"#NaturalFamily","Pterophoridae",,"Plume Moths"
+"#NaturalFamily","Pyralidae",,"Pyralidae typically rest with the antenae resting the length of the body "
+"#NaturalFamily","Alucitidae",,"The Twenty Plume Moth"
+"#NaturalFamily","Tortricidae",,"Large family of small moths"
+"#NaturalFamily","Momphidae",,"A family of small moths"
+"#NaturalFamily","Blastobasidae",,"A family of small moths"
+"#NaturalFamily","Depressariidae",,"A family of small moths"
+"#NaturalFamily","Chimabachidae",,"A family of small moths"
+"#NaturalFamily","Oecophoridae",,"A family of small moths"
+,,,
+,,,
+,,,
+"ForewingColour","Red",,"Can include browns"
+"ForewingColour","Red-Orange",,"Orange browns"
+"ForewingColour","Orange",,"Can include browns"
+"ForewingColour","Yellow-Orange",,"Can include browns"
+"ForewingColour","Yellow",,"Can include browns"
+"ForewingColour","Yellow-Green",,"Can quickly fade"
+"ForewingColour","Green",,"Can quickly fade"
+"ForewingColour","Blue-Green",,"Can quickly fade"
+"ForewingColour","Blue",,"A rare colour in moths"
+"ForewingColour","Greys",,"Includes Black or White moths"

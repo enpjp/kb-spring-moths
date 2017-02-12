@@ -1,100 +1,100 @@
-BradleyFletcher,EU,Taxon,VernacularName,UtilityGroup,NaturalFamily,Posture,ForewingShape,ForewingLength,Texture,ForewingColour,Basal,Median,Terminal,Stigma,CrossBand,TornalSpot,Costa,Dorsum,OtherFeatures
-0050,,Stigmella aurella,,Micro,Nepticulidae,Wings_flat,Narrow,[2-3],Shiney,Orange,,,,,golden edged with blue/black,None,No distinctive marking,No distinctive marking,
-0175,,Narycia monilifera ,,Micro,Psychidae,Wings_rolled | Wings_tentlike,Narrow,[4-6],Matte,Orange,,,,,Scattered pale yellow dots | Scattered pale yellow dots may form cross band,None,No distinctive marking,No distinctive marking,
-0181,,Taleporia tubulosa,,Micro,Psychidae,Wings_rolled,Narrow,[7-10],Matte,Orange,,,,,None,None,No distinctive marking,No distinctive marking,
-0200,,Psychoides filicivora,,Micro,Tineidae,Wings_rolled | Wings_tentlike,Narrow,[4-6],Matte,Greys | Orange,,,,,None,Small triangular white spot,No distinctive marking,No distinctive marking,
-0224,,Triaxomera parasitella,,Micro,Tineidae,Wings_rolled | Wings_tentlike,Narrow,[7-11],Matte,Orange,,,,,None,None,No distinctive marking,No distinctive marking,
-0263,,Lyonetia clerkella,,Micro,Lyonetiidae,Wings_rolled,Narrow,[4-4.5],Matte,Greys,,,,,None,None,No distinctive marking,No distinctive marking,
-0281,,Caloptilia populetorum,,Micro,Gracillariidea,Wings_rolled,Narrow,[6-7.5],Matte,Orange,,,,,None,None,Dark spot beyond one third.,Dark spot and one third and two thirds,
-0282,,Caloptilia elongella,,Micro,Gracillariidea,Wings_rolled,Narrow,[7-8.5],Matte,Orange,,,,,None,None,Obscure pale blotch,No distinctive marking,
-0283,,Caloptilia betulicola,,Micro,Gracillariidea,Wings_rolled,Narrow,[7-8.5],Matte,Orange,,,,,None,None,Pale blotch,No distinctive marking,
-0284,,Caloptilia rufipennella,,Micro,Gracillariidea,Wings_rolled,Very_narrow,[5-6],Glossy,Orange,,,,,None,None,None | Row of small black spots,No distinctive marking,Fore wing glossy
-0288,,Caloptilia stigmatella,,Micro,Gracillariidea,Wings_rolled,Very_narrow,[6-7],Matte,Red,,,,,None,None,Pale yellow triangular blotch | whitish triangular blotch,No distinctive marking,Extension to blotch narrowing towards dorsum
-#0303,,Parornix anglicella ,,Micro,Gracillariidea,,Narrow,[4-4.5],,,,,,,,,,,Needs gen. Det.
-0321,,Phyllonorycter messaniella,,Micro,Gracillariidea,Wings_rolled,Narrow,[3-4.5],Shiny,Yellow-Orange,,,,,None,,Four whitish streaks inwardly edged Orange,Two whitish streaks inwardly edged Orange,Black dot in apex
-0332a,,Phyllonorycter leucographella,Firethorn Leaf Miner,Micro,Gracillariidea,Wings_rolled,Narrow,[3-4.5],Matte,Orange,,,,,None,None,Four streaks,Two whitish streaks,White streak from base to one third
-#0389,,Choreutis pariana ,Apple Leaf Skeletonizer,Micro,,,,,,,,,,,,,,,
-#0445,,0445 Ocnerostoma friesei ,,Micro,,,,,,,,,,,,,,,
-#0461,,0461 Ypsolopha ustella ,,Micro,,,,,,,,,,,,,,,
-#0473,,0473 Acrolepiopsis assectella Leek Moth,,Micro,,,,,,,,,,,,,,,
-#0476,,0476 Acrolepia autumnitella ,,Micro,,,,,,,,,,,,,,,
-0483,,Epermenia chaerophyllella,,Micro,Epernenidae,Wings_rolled,Narrow,[5.5-6],Matte,Orange,,,,,Dark oblique cross band,None,,Large black and Orange scale tuft,Wing apex slightly hooked
-#493,,0493 Coleophora serratella ,,Micro,,,,,,,,,,,,,,,
-647,,Hofmannophila pseudospretella,Orange House Moth,Micro,Oecophoridae,Wings_flat |Wings_tentlike,Narrow,[7-11],Matte,Greys | Orange,,,,,,,,,
-648,,Endrosis sarcitrella,White-shouldered House Moth,Micro,Oecophoridae,Wings_flat |Wings_tentlike,Narrow,[6-9],Matte,Greys | Orange,,,,,,,,,
-663,,Diurnea fagella ,,Micro,Chimabachidae,Wings_flat |Wings_tentlike,Narrow,[13-14],Matte,Greys | Orange,,,,,,,,,
-672,,Depressaria heraclei,Parsnip Moth,Micro,Depressariidae,Wings_flat,Narrow,[12-14],Matte,Greys | Orange,,,,,,,,,
-688,,Agonopterix heracliana,,Micro,Depressariidae,Wings_flat,Narrow,[8-11],Matte,Greys | Orange,,,,,,,,,
-695,,Agonopterix alstromeriana,,Micro,Depressariidae,Wings_flat,Narrow,[8-10],Matte,Greys | Orange,,,,,,,,,
-697,,Agonopterix arenella,,Micro,Depressariidae,Wings_flat,Narrow,[9-11],Matte,Greys | Orange,,,,,,,,,
-701,,Agonopterix ocellana,,Micro,Depressariidae,Wings_flat,Narrow,[9-11],Matte,Greys | Orange,,,,,,,,,
-873,,Blastobasis adustella,,Micro,Blastobasidae,Wings_rolled,Narrow,[6-9],Matte,Greys | Orange,,,,,,,,,
-892,,Mompha subbistrigella,,Micro,Momphidae,Wings_rolled,Narrow,[3.5-5.5],Matte,Greys,,,,,,,,,
-1044,,Acleris ferrugana,,Micro,Tortricidae,Wings_flat,Narrow,[6-8],Matte,Orange,,,,,,,,,
-1045,,Acleris notana,,Micro,Tortricidae,Wings_flat,Narrow,[9-11],Matte,Orange,,,,,,,,,
-1047,,Acleris schalleriana,,Micro,Tortricidae,Wings_flat,Narrow,[6-9],Matte,Greys | Orange,,,,,,,,,
-1050,,Acleris kochiella,,Micro,Tortricidae,Wings_flat,Narrow,[7-9],Matte,Greys,,,,,,,,,
-1053,,Acleris hastiana,,Micro,Tortricidae,Wings_flat,Narrow,[9-11],Matte,Greys | Orange,,,,,,,,,
-1054,,Acleris cristana,,Micro,Tortricidae,Wings_flat,Narrow,[9-11],Matte,Greys | Orange,,,,,,,,,
-1061,,Acleris literana,,Micro,Tortricidae,Wings_flat,Narrow,[9-11],Matte,Greys | Green,,,,,,,,,
-1227,,Pammene giganteana,,Micro,Tortricidae,Wings_tentlike,Narrow |Very_narrow,[6.5-7.5],Matte,Greys,,,,,,,,,
-1288,,Alucita hexadactyla ,Twenty-plume Moth,Micro | Plume,Alucitidae,Wings_flat,Typical,[7.5-9],Matte,Greys | Orange,,,,,,,,,
-1344,,Eudonia mercurella ,,Micro,Pyralidae,Wings_flat,Narrow,[12-17],Matte,Greys,,,,,,,,,
-1428,,Aphomia sociella ,Bee Moth,Micro,Pyralidae,Wings_flat | Wings_rolled,Narrow |Very_narrow,[12-17],Matte,Greys | Green,,,,,,,,,
-#1479,,1479 Plodia interpunctella Indian Meal Moth,,Micro,,,,,,,,,,,,,,,
-1497,,Amblyptilia acanthadactyla ,Beautiful Plume,Micro | Plume,Pterophoridae,Wings_spread,Very_narrow,[9-11],Matte,Orange,,,,,,,,,
-1498,,Amblyptilia punctidactyla ,Brindled Plume,Micro | Plume,Pterophoridae,Wings_spread,Very_narrow,[9-11],Matte,Orange,,,,,,,,,
-1524,,Emmelina monodactyla ,Common Plume,Micro | Plume,Pterophoridae,Wings_spread,Very_narrow,[9-13],Matte,Orange,,,,,,,,,
-1640,,Euthrix potatoria,Drinker,Macro,Lasiocampidae,Wings_tentlike,Very_broad,[21-35],Matte,Red | Red-Orange,,,,,,,,,
-1659,,Achlya flavicornis,Yellow Horned,Macro | Flapper,Geometridae,Wings_tentlike,Typical | Narrow,[17-20],Matte,Greys | Green,,,,,,,,,
-1661,,Archiearis parthenias,Orange Underwing,Macro | Flapper,Geometridae,Wings_spread | Wings_flat,Typical,[16-19],Matte,Red | Red-Orange,,,,,,,,,
-1663,,Alsophila aescularia,March Moth,Macro | Flapper,Geometridae,Wings_tentlike | Wings_flat,Narrow | Very_narrow,[16-18],Matte,Greys,,,,,,,,,
-1746,,Anticlea badiata,Shoulder Stripe,Macro | Flapper,Geometridae,Wings_spread,Typical | Broad,[14-18],Matte,Greys | Orange,,,,,,,,,
-1750,,Lampropteryx suffumata,Water Carpet,Macro | Flapper,Geometridae,Wings_spread,Typical,[14-17],Matte,Greys | Orange,,,,,,,,,
-1760,,Chloroclysta siterata,Red-green Carpet,Macro | Flapper,Geometridae,Wings_spread,Typical,[14-17],Matte,Green | Yellow-Green,,,,,,,,,
-1764,,Chloroclysta truncata/citrata ,Common/Dark Marbled Carpet agg.,Macro | Flapper,Geometridae,Wings_spread,Typical,[14-19],Matte,Greys | Orange,,,,,,,,,
-1775,,Colostygia multistrigaria,Mottled Grey,Macro | Flapper,Geometridae,Wings_spread,Typical | Narrow,[13-17],Shiny,Greys | Orange,,,,,,,,,
-#1790,,Triphosa dubitata ,Tissue,Macro | Flapper,Geometridae,Wings_spread,Typical  Broad,[19-22],Shiny,Greys | Orange,,,,,,,,,
-1852,,Eupithecia abbreviata,Brindled Pug,Macro | Flapper,Geometridae,Wings_spread,Typical | Narrow,[10-12],,Greys | Orange,,,,,,,,,
-1862,,Gymnoscelis rufifasciata,Double-striped Pug,Macro | Flapper,Geometridae,Wings_spread,Typical | Narrow,[8-10],,Greys | Red | Red-Orange | Orange,,,,,,,,,
-1887,,Lomaspilis marginata,Clouded Border,Macro | Flapper,Geometridae,Wings_spread,Typical,[11-14],,Greys,,,,,,,,,
-1917,,Selenia dentaria,Early Thorn,Macro | Flapper,Geometridae,Wings_up,Typical,[14-23],,Red | Red-Orange | Orange,,,,,,,,,
-1925,,Apocheima hispidaria,Small Brindled Beauty,Macro | Flapper,Geometridae,Wings_spread,Typical | Narrow,[15-17],,Greys | Orange,,,,,Several Dark Cross lines,,,,
-1926,,Phigalia pilosaria,Pale Brindled Beauty,Macro | Flapper,Geometridae,Wings_spread,Typical,[19-24],,Greys | Orange,,,,,Several faint cross lines,,,,
-1927,,Lycia hirtaria,Brindled Beauty,Macro | Flapper,Geometridae,Wings_spread,Typical,[19-23],,Greys | Orange,,,,,Several Dark Cross lines,,,,
-1930,,Biston strataria ,Oak Beauty,Macro | Flapper,Geometridae,Wings_spread,Typical,[14-17],,Greys | Orange,,,,,,,,,
-1932,,Agriopis leucophaearia,Spring Usher,Macro | Flapper,Geometridae,Wings_spread,Typical,[14-17],,Greys | Orange,,,,,,,,,
-1934,70.255,Agriopis marginaria,Dotted Border,Macro | Flapper,Geometridae,Wings_spread,Typical,[16-20],,Orange,,,,,Several faint cross lines,None,No distinctive marking,No distinctive marking,Distinctive row of dots along termen
-1935,70.256,Erannis defoliaria,Mottled Umber,Macro | Flapper,Geometridae,Wings_spread,Typical,[18-25],,Orange,,,,,Several Dark Cross lines,None,No distinctive marking,No distinctive marking,
-1947,70.270,Ectropis bistortata,Engrailed,Macro | Flapper,Geometridae,Wings_up | Wings_spread,Typical,[15-22],,Orange,,,,,Several Dark Crosslines,None,No distinctive marking,No distinctive marking,
-1960,70.282,Theria primaria,Early Moth,Macro | Flapper,Geometridae,Wings_up | Wings_spread,Typical,[14-17],,Orange,,,,,Several pale crosslines,None,No distinctive marking,No distinctive marking,Darker central spot.
-2028,72.015,Calliteara pudibunda,Pale Tussock,Macro | Buzzer,Lymatriidae,Wings_tentlike | Wings_flat,Typical,[21-22],,Greys,,,,,Several darker crossbands,None,No distinctive marking,No distinctive marking,Fore legs often stretched forwards
-2050,72.045,Eilema lurideola,Common Footman,Macro | Buzzer,Arctiidae,Wings_flat | Wings_rolled,Narrow,[14-17],,Greys,,,,,None,None,Yellow strip,No distinctive marking,Yellow stripe narrows towards wing tip
-2107,,Noctua pronuba ,Large Yellow Underwing,Macro | Buzzer,Noctuidae,Wings_flat,Narrow,[21-26],,Greys | Red | Red-Orange | Orange,,,,,,,,,
-2126,,Xestia c-nigrum, Setaceous Hebrew Character,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[14-17],,Greys | Red | Red-Orange | Orange,,,,,,,,,
-2139,,Cerastis rubricosa,Red Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[14-17],,Red | Red-Orange,,,,,,,,,
-2179,,Panolis flammea,Pine Beauty,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[12-15],,Red | Red-Orange | Yellow-Orange,,,,,,,,,
-2182,,Orthosia cruda,Small Quaker,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[12-15],Matte,Orange | Yellow-Orange,,,,,None,,Straight,No distinctive marking,Smallest of the “Quakers”
-2183,,Orthosia miniosa,Blossom Underwing,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-17],Matte,Orange,,,,,Several pale crosslines,None,Straight,No distinctive marking,Motlted markings on hindwing
-2185,,Orthosia populeti,Lead-coloured Drab,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-19],Matte,Greys,,,,,Several light and dark crosslines,,Straight,,
-2186,,Orthosia gracilis ,Powdered Quaker,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-19],,Yellow-Orange| Greys,,,,,,,,,
-2187,,Orthosia cerasi,Common Quaker,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[13-17],,Red-Orange | Orange | Yellow-Orange,,,,,,,,,
-2188,,Orthosia incerta,Clouded Drab,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[16-20],,Red | Red-Orange | Orange,,,,,,,,,
-2189,,Orthosia munda,Twin-spotted Quaker,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[17-20],,Orange | Yellow-Orange | Greys,,,,,,,,,
-2190,,Orthosia gothica,Hebrew Character,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-17],,Orange | Greys | Red,,,,,,,,,
-2232,,Aporophyla nigra,Black Rustic,Macro | Buzzer,Noctuidae,Wings_flat,Typical | Narrow,[17-21],,Greys | Orange |Blue,,,,,,,,,
-2235,,Lithophane semibrunnea,Tawny Pinion,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[16-20],,Red-Orange,,,,,,,,,
-2236,,Lithophane hepatica ,Pale Pinion,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[17-20],,Greys | Yellow-Orange,,,,,,,,,
-2237,,Lithophane ornitopus,Grey Shoulder-knot,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[17-19],,Greys,,,,,,,,,
-2243,,Xylocampa areola,Early Grey,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[17-20],,Greys,,,,,,,,,
-2256,,Eupsilia transversa ,Satellite,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-18],,Red-Orange | Orange,,,,,,,,,
-2258,,Conistra vaccinii,Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[14-15],,Red-Orange | Orange,,,,,,,,,
-2259,73.195,Conistra ligula,Dark Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[13-15],,Red | Red-Orange | Orange,,,,,Faint lighter cross bands,None,No distinctive marking,No distinctive marking,Fore wing slightly pointed
-2260,73.197,Conistra rubiginea,Dotted Chestnut,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-17],,Red | Red-Orange | Orange,,,,,None,None,No distinctive marking,No distinctive marking,Heavy spotting over fore wing
-2263,73.189,Agrochola lota,Red-line Quaker,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[15-18],,Red-Orange | Orange,,,,,Red tinged cross line,None,No distinctive marking,No distinctive marking,Small dark spot on fore wing
-2300,9490,Mormo maura,Old Lady,Macro | Buzzer,Noctuidae,Wings_flat,Very_broad,[30-36],,Red-Orange | Orange,,,,,Darker cross band,None,Series of darker spots along costa,No distinctive marking,Scalloped outer edge
-2306,9505,Phlogophora meticulosa,Angle Shades,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[21-25],,Red | Red-Orange | Yellow-Orange | Yellow| Yellow-Green,,,,,Darker V shaped cross band,None,No distinctive marking,No distinctive marking,Several folds on length of wing
-2361,9834,Hydraecia micacea,Rosy Rustic,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[14-21],,Red | Red-Orange,,,,,Darker cross band,None,No distinctive marking,No distinctive marking,Quite pointed fore wing
-2434,9045,Diachrysia chrysitis,Burnished Brass,Macro | Buzzer,Noctuidae,Wings_flat,Broad,[16-19],,Orange | Yellow-Orange,,,,,Brassy Yellow,None,No distinctive marking,No distinctive marking,
-2441,9056,Autographa gamma,Silver Y,Macro | Buzzer,Noctuidae,Wings_flat,Typical,[13-21],,Red-Orange | Orange,,,,,Silver Y shaped mark,None,No distinctive marking,No distinctive marking,Very variable colour.
-2469,8984,Scoliopteryx libatrix ,Herald,Macro | Buzzer,Noctuidae,Wings_flat,Broad,[19-23],,Red-Orange | Orange,,,,,Several white cross lines,Wavy line towards tornus,Two white spots inside costa,No distinctive marking,Deeply scalloped outer edge. Some orange towards inner two thirds.
+"BradleyFletcher","EU","Taxon","VernacularName","UtilityGroup","NaturalFamily","Posture","ForewingShape","ForewingLength","Texture","ForewingColour","Basal","Antemedian","Median","Postmedian","Terminal","Apical","Subapical","Tornal","Subtornal","Costal","Subcostal","Medial","Subdorsal","Dorsal","OtherFeatures"
+"0050",,"Stigmella aurella",,"Micro","Nepticulidae","Wings_flat","Narrow","[2-3]","Shiny","Orange",,,,,,,,,,,,,,,"Cross band golden edged with blue/black"
+"0175",,"Narycia monilifera ",,"Micro","Psychidae","Wings_rolled | Wings_tentlike","Narrow","[4-6]","Matte","Orange",,,,,,,,,,,,,,,"Scattered pale yellow dots | Scattered pale yellow dots may form cross band"
+"0181",,"Taleporia tubulosa",,"Micro","Psychidae","Wings_rolled","Narrow","[7-10]","Matte","Orange",,,,,,,,,,,,,,,
+"0200",,"Psychoides filicivora",,"Micro","Tineidae","Wings_rolled | Wings_tentlike","Narrow","[4-6]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+"0224",,"Triaxomera parasitella",,"Micro","Tineidae","Wings_rolled | Wings_tentlike","Narrow","[7-11]","Matte","Orange",,,,,,,,,,,,,,,
+"0263",,"Lyonetia clerkella",,"Micro","Lyonetiidae","Wings_rolled","Narrow","[4-4.5]","Matte","Greys",,,,,,,,,,,,,,,
+"0281",,"Caloptilia populetorum",,"Micro","Gracillariidea","Wings_rolled","Narrow","[6-7.5]","Matte","Orange",,,,,,,,,,,,,,,"Dark spot beyond one third."
+"0282",,"Caloptilia elongella",,"Micro","Gracillariidea","Wings_rolled","Narrow","[7-8.5]","Matte","Orange",,,,,,,,,,,,,,,"Obscure pale blotch"
+"0283",,"Caloptilia betulicola",,"Micro","Gracillariidea","Wings_rolled","Narrow","[7-8.5]","Matte","Orange",,,,,,,,,,,,,,,"Pale blotch"
+"0284",,"Caloptilia rufipennella",,"Micro","Gracillariidea","Wings_rolled","Very_narrow","[5-6]","Glossy","Orange",,,,,,,,,,,,,,,"Fore wing glossy"
+"0288",,"Caloptilia stigmatella",,"Micro","Gracillariidea","Wings_rolled","Very_narrow","[6-7]","Matte","Red",,,,,,,,,,,,,,,"Extension to blotch narrowing towards dorsum. Pale yellow triangular blotch | whitish triangular blotch"
+"#0303",,"Parornix anglicella ",,"Micro","Gracillariidea",,"Narrow","[4-4.5]",,,,,,,,,,,,,,,,,"Needs gen. Det."
+"0321",,"Phyllonorycter messaniella",,"Micro","Gracillariidea","Wings_rolled","Narrow","[3-4.5]","Shiny","Yellow-Orange",,,,,,,,,,,,,,,"Black dot in apex. Four whitish streaks inwardly edged Orange"
+"0332a",,"Phyllonorycter leucographella","Firethorn Leaf Miner","Micro","Gracillariidea","Wings_rolled","Narrow","[3-4.5]","Matte","Orange",,,,,,,,,,,,,,,"White streak from base to one third. Four streaks"
+"#0389",,"Choreutis pariana ","Apple Leaf Skeletonizer","Micro",,,,,,,,,,,,,,,,,,,,,
+"#0445",,"0445 Ocnerostoma friesei ",,"Micro",,,,,,,,,,,,,,,,,,,,,
+"#0461",,"0461 Ypsolopha ustella ",,"Micro",,,,,,,,,,,,,,,,,,,,,
+"#0473",,"0473 Acrolepiopsis assectella Leek Moth",,"Micro",,,,,,,,,,,,,,,,,,,,,
+"#0476",,"0476 Acrolepia autumnitella ",,"Micro",,,,,,,,,,,,,,,,,,,,,
+"0483",,"Epermenia chaerophyllella",,"Micro","Epernenidae","Wings_rolled","Narrow","[5.5-6]","Matte","Orange",,,,,,,,,,,,,,,"Wing apex slightly hooked"
+"#493",,"0493 Coleophora serratella ",,"Micro",,,,,,,,,,,,,,,,,,,,,
+647,,"Hofmannophila pseudospretella","Orange House Moth","Micro","Oecophoridae","Wings_flat |Wings_tentlike","Narrow","[7-11]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+648,,"Endrosis sarcitrella","White-shouldered House Moth","Micro","Oecophoridae","Wings_flat |Wings_tentlike","Narrow","[6-9]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+663,,"Diurnea fagella ",,"Micro","Chimabachidae","Wings_flat |Wings_tentlike","Narrow","[13-14]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+672,,"Depressaria heraclei","Parsnip Moth","Micro","Depressariidae","Wings_flat","Narrow","[12-14]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+688,,"Agonopterix heracliana",,"Micro","Depressariidae","Wings_flat","Narrow","[8-11]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+695,,"Agonopterix alstromeriana",,"Micro","Depressariidae","Wings_flat","Narrow","[8-10]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+697,,"Agonopterix arenella",,"Micro","Depressariidae","Wings_flat","Narrow","[9-11]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+701,,"Agonopterix ocellana",,"Micro","Depressariidae","Wings_flat","Narrow","[9-11]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+873,,"Blastobasis adustella",,"Micro","Blastobasidae","Wings_rolled","Narrow","[6-9]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+892,,"Mompha subbistrigella",,"Micro","Momphidae","Wings_rolled","Narrow","[3.5-5.5]","Matte","Greys",,,,,,,,,,,,,,,
+1044,,"Acleris ferrugana",,"Micro","Tortricidae","Wings_flat","Narrow","[6-8]","Matte","Orange",,,,,,,,,,,,,,,
+1045,,"Acleris notana",,"Micro","Tortricidae","Wings_flat","Narrow","[9-11]","Matte","Orange",,,,,,,,,,,,,,,
+1047,,"Acleris schalleriana",,"Micro","Tortricidae","Wings_flat","Narrow","[6-9]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+1050,,"Acleris kochiella",,"Micro","Tortricidae","Wings_flat","Narrow","[7-9]","Matte","Greys",,,,,,,,,,,,,,,
+1053,,"Acleris hastiana",,"Micro","Tortricidae","Wings_flat","Narrow","[9-11]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+1054,,"Acleris cristana",,"Micro","Tortricidae","Wings_flat","Narrow","[9-11]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+1061,,"Acleris literana",,"Micro","Tortricidae","Wings_flat","Narrow","[9-11]","Matte","Greys | Green",,,,,,,,,,,,,,,
+1227,,"Pammene giganteana",,"Micro","Tortricidae","Wings_tentlike","Narrow |Very_narrow","[6.5-7.5]","Matte","Greys",,,,,,,,,,,,,,,
+1288,,"Alucita hexadactyla ","Twenty-plume Moth","Micro | Plume","Alucitidae","Wings_flat","Typical","[7.5-9]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+1344,,"Eudonia mercurella ",,"Micro","Pyralidae","Wings_flat","Narrow","[12-17]","Matte","Greys",,,,,,,,,,,,,,,
+1428,,"Aphomia sociella ","Bee Moth","Micro","Pyralidae","Wings_flat | Wings_rolled","Narrow |Very_narrow","[12-17]","Matte","Greys | Green",,,,,,,,,,,,,,,
+"#1479",,"1479 Plodia interpunctella Indian Meal Moth",,"Micro",,,,,,,,,,,,,,,,,,,,,
+1497,,"Amblyptilia acanthadactyla ","Beautiful Plume","Micro | Plume","Pterophoridae","Wings_spread","Very_narrow","[9-11]","Matte","Orange",,,,,,,,,,,,,,,
+1498,,"Amblyptilia punctidactyla ","Brindled Plume","Micro | Plume","Pterophoridae","Wings_spread","Very_narrow","[9-11]","Matte","Orange",,,,,,,,,,,,,,,
+1524,,"Emmelina monodactyla ","Common Plume","Micro | Plume","Pterophoridae","Wings_spread","Very_narrow","[9-13]","Matte","Orange",,,,,,,,,,,,,,,
+1640,,"Euthrix potatoria","Drinker","Macro","Lasiocampidae","Wings_tentlike","Very_broad","[21-35]","Matte","Red | Red-Orange",,,,,,,,,,,,,,,
+1659,,"Achlya flavicornis","Yellow Horned","Macro | Flapper","Geometridae","Wings_tentlike","Typical | Narrow","[17-20]","Matte","Greys | Green",,,,,,,,,,,,,,,
+1661,,"Archiearis parthenias","Orange Underwing","Macro | Flapper","Geometridae","Wings_spread | Wings_flat","Typical","[16-19]","Matte","Red | Red-Orange",,,,,,,,,,,,,,,
+1663,,"Alsophila aescularia","March Moth","Macro | Flapper","Geometridae","Wings_tentlike | Wings_flat","Narrow | Very_narrow","[16-18]","Matte","Greys",,,,,,,,,,,,,,,
+1746,,"Anticlea badiata","Shoulder Stripe","Macro | Flapper","Geometridae","Wings_spread","Typical | Broad","[14-18]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+1750,,"Lampropteryx suffumata","Water Carpet","Macro | Flapper","Geometridae","Wings_spread","Typical","[14-17]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+1760,,"Chloroclysta siterata","Red-green Carpet","Macro | Flapper","Geometridae","Wings_spread","Typical","[14-17]","Matte","Green | Yellow-Green",,,,,,,,,,,,,,,
+1764,,"Chloroclysta truncata/citrata ","Common/Dark Marbled Carpet agg.","Macro | Flapper","Geometridae","Wings_spread","Typical","[14-19]","Matte","Greys | Orange",,,,,,,,,,,,,,,
+1775,,"Colostygia multistrigaria","Mottled Grey","Macro | Flapper","Geometridae","Wings_spread","Typical | Narrow","[13-17]","Shiny","Greys | Orange",,,,,,,,,,,,,,,
+"#1790",,"Triphosa dubitata ","Tissue","Macro | Flapper","Geometridae","Wings_spread","Typical  Broad","[19-22]","Shiny","Greys | Orange",,,,,,,,,,,,,,,
+1852,,"Eupithecia abbreviata","Brindled Pug","Macro | Flapper","Geometridae","Wings_spread","Typical | Narrow","[10-12]",,"Greys | Orange",,,,,,,,,,,,,,,
+1862,,"Gymnoscelis rufifasciata","Double-striped Pug","Macro | Flapper","Geometridae","Wings_spread","Typical | Narrow","[8-10]",,"Greys | Red | Red-Orange | Orange",,,,,,,,,,,,,,,
+1887,,"Lomaspilis marginata","Clouded Border","Macro | Flapper","Geometridae","Wings_spread","Typical","[11-14]",,"Greys",,,,,,,,,,,,,,,
+1917,,"Selenia dentaria","Early Thorn","Macro | Flapper","Geometridae","Wings_up","Typical","[14-23]",,"Red | Red-Orange | Orange",,,,,,,,,,,,,,,
+1925,,"Apocheima hispidaria","Small Brindled Beauty","Macro | Flapper","Geometridae","Wings_spread","Typical | Narrow","[15-17]",,"Greys | Orange",,,,,,,,,,,,,,,
+1926,,"Phigalia pilosaria","Pale Brindled Beauty","Macro | Flapper","Geometridae","Wings_spread","Typical","[19-24]",,"Greys | Orange",,,,,,,,,,,,,,,
+1927,,"Lycia hirtaria","Brindled Beauty","Macro | Flapper","Geometridae","Wings_spread","Typical","[19-23]",,"Greys | Orange",,,,,,,,,,,,,,,
+1930,,"Biston strataria ","Oak Beauty","Macro | Flapper","Geometridae","Wings_spread","Typical","[14-17]",,"Greys | Orange",,,,,,,,,,,,,,,
+1932,,"Agriopis leucophaearia","Spring Usher","Macro | Flapper","Geometridae","Wings_spread","Typical","[14-17]",,"Greys | Orange",,,,,,,,,,,,,,,
+1934,"70.255","Agriopis marginaria","Dotted Border","Macro | Flapper","Geometridae","Wings_spread","Typical","[16-20]",,"Orange",,,,,,,,,,,,,,,"Distinctive row of dots along termen"
+1935,70.256,"Erannis defoliaria","Mottled Umber","Macro | Flapper","Geometridae","Wings_spread","Typical","[18-25]",,"Orange",,,,,,,,,,,,,,,
+1947,"70.270","Ectropis bistortata","Engrailed","Macro | Flapper","Geometridae","Wings_up | Wings_spread","Typical","[15-22]",,"Orange",,,,,,,,,,,,,,,
+1960,"70.282","Theria primaria","Early Moth","Macro | Flapper","Geometridae","Wings_up | Wings_spread","Typical","[14-17]",,"Orange",,,,,,,,,,,,,,,"Darker central spot."
+2028,"72.015","Calliteara pudibunda","Pale Tussock","Macro | Buzzer","Lymatriidae","Wings_tentlike | Wings_flat","Typical","[21-22]","Matte","Greys",,,,,,,,,,,,,,,"Fore legs often stretched forwards"
+2050,"72.045","Eilema lurideola","Common Footman","Macro | Buzzer","Arctiidae","Wings_flat | Wings_rolled","Narrow","[14-17]",,"Greys",,,,,,,,,,,,,,,"Yellow stripe narrows towards wing tip"
+2107,,"Noctua pronuba ","Large Yellow Underwing","Macro | Buzzer","Noctuidae","Wings_flat","Narrow","[21-26]",,"Greys | Red | Red-Orange | Orange",,,,,,,,,,,,,,,
+2126,,"Xestia c-nigrum"," Setaceous Hebrew Character","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[14-17]",,"Greys | Red | Red-Orange | Orange",,,,,,,,,,,,,,,
+2139,,"Cerastis rubricosa","Red Chestnut","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[14-17]",,"Red | Red-Orange",,,,,,,,,,,,,,,
+2179,,"Panolis flammea","Pine Beauty","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[12-15]","Matte","Red | Red-Orange | Yellow-Orange",,,,,,,,,,,,,,,
+2182,,"Orthosia cruda","Small Quaker","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[12-15]","Matte","Orange | Yellow-Orange",,,,,,,,,,,,,,,"Smallest of the “Quakers”"
+2183,,"Orthosia miniosa","Blossom Underwing","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[15-17]","Matte","Orange",,,,,,,,,,,,,,,"Motlted markings on hindwing"
+2185,,"Orthosia populeti","Lead-coloured Drab","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[15-19]","Matte","Greys",,,,,,,,,,,,,,,
+2186,,"Orthosia gracilis ","Powdered Quaker","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[15-19]","Matte","Yellow-Orange| Greys",,,,,,,,,,,,,,,
+2187,,"Orthosia cerasi","Common Quaker","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[13-17]","Matte","Red-Orange | Orange | Yellow-Orange",,,,,,,,,,,,,,,
+2188,,"Orthosia incerta","Clouded Drab","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[16-20]","Matte","Red | Red-Orange | Orange",,,,,,,,,,,,,,,
+2189,,"Orthosia munda","Twin-spotted Quaker","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[17-20]","Matte","Orange | Yellow-Orange | Greys",,,,,,,,,,,,,,,
+2190,,"Orthosia gothica","Hebrew Character","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[15-17]","Matte","Orange | Greys | Red",,,,,,,,,,,,,,,
+2232,,"Aporophyla nigra","Black Rustic","Macro | Buzzer","Noctuidae","Wings_flat","Typical | Narrow","[17-21]","Matte","Greys | Orange |Blue",,,,,,,,,,,,,,,
+2235,,"Lithophane semibrunnea","Tawny Pinion","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[16-20]","Matte","Red-Orange",,,,,,,,,,,,,,,
+2236,,"Lithophane hepatica ","Pale Pinion","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[17-20]","Matte","Greys | Yellow-Orange",,,,,,,,,,,,,,,
+2237,,"Lithophane ornitopus","Grey Shoulder-knot","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[17-19]","Matte","Greys","Streak","Streak | Dot","Streak | Stigma","Streak | Stigma","Dotted | Dots","Dots | Stigma","Dots | Stigma","Dots | Stigma","Dots | Stigma","Dots | Stigma","Dots | Stigma","Stigma","Stigma","Stigma",
+2243,,"Xylocampa areola","Early Grey","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[17-20]","Matte","Greys","Line|Angled  |Macula","Line|Angled  |Macula","Line| Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Line|Angled  |Macula","Line|Angled  |Macula | Streak","Line|Angled  |Macula | Streak","None","None","None","Line|Angled  |Macula","Line|Angled  |Macula","Line| Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Line|Angled  |Macula","Line|Angled  |Macula",
+2256,,"Eupsilia transversa ","Satellite","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[15-18]","Matte","Red-Orange | Orange","Line |Macula | Fascia","Line |Macula | Fascia","Line| Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Dots | Line | Angled","Dots | Line | Angled","None","None","None","None","Dots | Macula","Dots | Macula","Line| Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Dots | Macula","Dots | Macula",
+2258,,"Conistra vaccinii","Chestnut","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[14-15]","Matte","Red-Orange | Orange","Line","Line","Line | Dot | Stigma","Dots | Line","Dots","None","None","None","None","Dots","Dots","Line | Dot | Stigma","None","None","Fore wing rounded"
+2259,"73.195","Conistra ligula","Dark Chestnut","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[13-15]","Matte","Red | Red-Orange | Orange","None | Line","None | Line","Line| Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Dots | Line","Dots","None","None","None","None","Dots","None","Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","None","None","Fore wing slightly pointed. Termen S shaped."
+2260,"73.197","Conistra rubiginea","Dotted Chestnut","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[15-17]","Matte","Red | Red-Orange | Orange","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Dot | Dots","Heavy spotting over fore wing"
+"2263","73.189","Agrochola lota","Red-line Quaker","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[15-18]","Matte","Red-Orange | Orange","None","None","Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Line","Dots | Angled","None","None","None","None","None","Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Dot| Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","None","None","Small dark spot on fore wing"
+"2300","9490","Mormo maura","Old Lady","Macro | Buzzer","Noctuidae","Wings_flat","Very_broad","[30-36]","Matte","Red-Orange | Orange","Fascia","Line |Macula | Fascia","Line |Macula | Fascia","Line |Macula | Fascia","Line | Angled ","None","None","None","None","Dots | Fascia","Stigma | Macula | Fascia","Stigma | Macula | Fascia"," Macula | Fascia"," Macula | Fascia","Scalloped outer edge"
+"2306","9505","Phlogophora meticulosa","Angle Shades","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[21-25]","Matte","Red | Red-Orange | Yellow-Orange | Yellow| Yellow-Green","Line |Macula | Fascia","Line |Macula | Fascia","Line |Macula | Fascia | Stigma","Line |Macula | Fascia","Line | Angled ","None","None| Line|Macula | Stigma","None| Line|Macula","None| Line|Macula","Macula | Fascia","Macula | Fascia","Macula | Fascia","Macula | Fascia","Macula | Fascia","Several folds on length of wing"
+"2361","9834","Hydraecia micacea","Rosy Rustic","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[14-21]","Matte","Red | Red-Orange","Line |Macula ","Line |Macula ","Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma "," Line | Fascia ","Line | Angled | Fascia | Macula","None | Macula","None | Macula","None","None","Macula","Orbicular_stigma | Sub_reniform_stigma | Reniform_stigma ","Macula","Macula","Macula","Quite pointed fore wing"
+"2434","9045","Diachrysia chrysitis","Burnished Brass","Macro | Buzzer","Noctuidae","Wings_flat","Broad","[16-19]","Matte | Metallic","Orange | Yellow-Orange","Macula","Line |Macula ","Macula | Fascia","Line | Angled | Fascia | Macula","Line | Angled | Fascia | Macula","None","None","None","None","Macula","Macula","Macula","Macula","Macula",
+"2441","9056","Autographa gamma","Silver Y","Macro | Buzzer","Noctuidae","Wings_flat","Typical","[13-21]","Matte","Red-Orange | Orange","Macula","Line |Macula "," Dot| Line |  Fascia |  Stigma"," Line | Fascia ","Line | Angled | Fascia | Macula","Streak","Streak","None","None","Fascia | Macula","Fascia | Macula"," Macula |Stigma","Macula","Macula","Very variable colour."
+"2469","8984","Scoliopteryx libatrix ","Herald","Macro | Buzzer","Noctuidae","Wings_flat","Broad","[19-23]","Matte","Red-Orange | Orange"," Dots | Macula | Orbicular_stigma","Line |Macula "," Macula |  Orbicular_stigma "," Line | Fascia ","Line | Fascia","None","None","None","None","Macula"," Macula |  Orbicular_stigma "," Macula ","None","None","Deeply scalloped outer edge. Some orange towards inner two thirds."
