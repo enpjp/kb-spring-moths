@@ -19,81 +19,59 @@
 ,,,
 "#Transverse Characters",,,
 "Basal","None","None","Plain"
+"Basal","Dot","Dot","Single dot"
 "Basal","Dotted","Random dots","Random dots"
 "Basal","Dots","Dots","Row(s) of Dots"
 "Basal","Line","Line","One or more lines"
 "Basal","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Basal","Fascia","Fascia","Broad band"
-"Basal","Dot","Dot","Single dot"
 "Basal","Macula","Macula / Blotch","Area of contrasting colour."
-"Basal","Streak","Streak",
-"Basal","Striae","Striae Streaks",
-"Basal","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Basal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Basal","Reniform_stigma","Kidney shaped spot",
-"Basal","Stigma","Other shaped stigma",
+,,,
+"#Basal","Streak","Streak",
+"#Basal","Striae","Striae Streaks",
+"#Basal","Orbicular_stigma","Orbicular stigma / Circular spot",
+"#Basal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
+"#Basal","Reniform_stigma","Kidney shaped spot",
+"#Basal","Stigma","Other shaped stigma",
 ,,,
 "Antemedian","None","None","Plain"
+"Antemedian","Dot","Dot","Single dot"
 "Antemedian","Dotted","Random dots","Random dots"
 "Antemedian","Dots","Dots","Row(s) of Dots"
 "Antemedian","Line","Line","One or more lines"
 "Antemedian","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Antemedian","Fascia","Fascia","Broad band"
-"Antemedian","Dot","Dot","Single dot"
 "Antemedian","Macula","Macula / Blotch","Area of contrasting colour."
-"Antemedian","Streak","Streak",
-"Antemedian","Striae","Striae Streaks",
-"Antemedian","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Antemedian","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Antemedian","Reniform_stigma","Kidney shaped spot",
-"Antemedian","Stigma","Other shaped stigma",
+,,,
+,,,
 ,,,
 "Median","None","None","Plain"
+"Median","Dot","Dot","Single dot"
 "Median","Dotted","Random dots","Random dots"
 "Median","Dots","Dots","Row(s) of Dots"
 "Median","Line","Line","One or more lines"
 "Median","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Median","Fascia","Fascia","Broad band"
-"Median","Dot","Dot","Single dot"
 "Median","Macula","Macula / Blotch","Area of contrasting colour."
-"Median","Streak","Streak",
-"Median","Striae","Striae Streaks",
-"Median","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Median","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Median","Reniform_stigma","Kidney shaped spot",
-"Median","Stigma","Other shaped stigma",
-,,,
 ,,,
 "Postmedian","None","None","Plain"
+"Postmedian","Dot","Dot","Single dot"
 "Postmedian","Dotted","Random dots","Random dots"
 "Postmedian","Dots","Dots","Row(s) of Dots"
 "Postmedian","Line","Line","One or more lines"
 "Postmedian","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Postmedian","Fascia","Fascia","Broad band"
-"Postmedian","Dot","Dot","Single dot"
 "Postmedian","Macula","Macula / Blotch","Area of contrasting colour."
-"Postmedian","Streak","Streak",
-"Postmedian","Striae","Striae Streaks",
-"Postmedian","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Postmedian","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Postmedian","Reniform_stigma","Kidney shaped spot",
-"Postmedian","Stigma","Other shaped stigma",
-,,,
 ,,,
 "Terminal","None","None","Plain"
+"Terminal","Dot","Dot","Single dot"
 "Terminal","Dotted","Random dots","Random dots"
 "Terminal","Dots","Dots","Row(s) of Dots"
 "Terminal","Line","Line","One or more lines"
 "Terminal","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Terminal","Fascia","Fascia","Broad band"
-"Terminal","Dot","Dot","Single dot"
 "Terminal","Macula","Macula / Blotch","Area of contrasting colour."
-"Terminal","Streak","Streak",
-"Terminal","Striae","Striae Streaks",
-"Terminal","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Terminal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Terminal","Reniform_stigma","Kidney shaped spot",
-"Terminal","Stigma","Other shaped stigma",
+,,,
 ,,,
 "#Apex  Characters",,,
 "Apical","None","None",
@@ -145,10 +123,6 @@
 "Subtornal","Stigma","Other shaped stigma",
 "Subtornal","Macula","Macula / Blotch","Area of contrasting colour."
 ,,,
-,,,
-,,,
-,,,
-,,,
 "#Longitudinal Characters",,,
 "Costal","None","None",
 "Costal","Dot","Dot","Single dot"
@@ -157,12 +131,7 @@
 "Costal","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Costal","Streak","Streak",
 "Costal","Striae","Striae Streaks",
-"Costal","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Costal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Costal","Reniform_stigma","Kidney shaped spot",
-"Costal","Stigma","Other shaped stigma",
 "Costal","Macula","Macula / Blotch","Area of contrasting colour."
-"Costal","Fascia","Fascia","Broad band"
 ,,,
 "Subcostal","None","None",
 "Subcostal","Dot","Dot","Single dot"
@@ -171,13 +140,7 @@
 "Subcostal","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Subcostal","Streak","Streak",
 "Subcostal","Striae","Striae Streaks",
-"Subcostal","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Subcostal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Subcostal","Reniform_stigma","Kidney shaped spot",
-"Subcostal","Stigma","Other shaped stigma",
 "Subcostal","Macula","Macula / Blotch","Area of contrasting colour."
-"Subcostal","Fascia","Fascia","Broad band"
-,,,
 ,,,
 "Medial","None","None",
 "Medial","Dot","Dot","Single dot"
@@ -186,13 +149,7 @@
 "Medial","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Medial","Streak","Streak",
 "Medial","Striae","Striae Streaks",
-"Medial","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Medial","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Medial","Reniform_stigma","Kidney shaped spot",
-"Medial","Stigma","Other shaped stigma",
 "Medial","Macula","Macula / Blotch","Area of contrasting colour."
-"Medial","Fascia","Fascia","Broad band"
-,,,
 ,,,
 "Subdorsal","None","None",
 "Subdorsal","Dot","Dot","Single dot"
@@ -201,13 +158,7 @@
 "Subdorsal","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Subdorsal","Streak","Streak",
 "Subdorsal","Striae","Striae Streaks",
-"Subdorsal","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Subdorsal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Subdorsal","Reniform_stigma","Kidney shaped spot",
-"Subdorsal","Stigma","Other shaped stigma",
 "Subdorsal","Macula","Macula / Blotch","Area of contrasting colour."
-"Subdorsal","Fascia","Fascia","Broad band"
-,,,
 ,,,
 "Dorsal","None","None",
 "Dorsal","Dot","Dot","Single dot"
@@ -216,13 +167,9 @@
 "Dorsal","Angled","Sharply angled","Zig Zags, Crescents etc."
 "Dorsal","Streak","Streak",
 "Dorsal","Striae","Striae Streaks",
-"Dorsal","Orbicular_stigma","Orbicular stigma / Circular spot",
-"Dorsal","Sub_reniform_stigma","Subreniform stigma / Oval or other shape spot",
-"Dorsal","Reniform_stigma","Kidney shaped spot",
-"Dorsal","Reniform_stigma","Other shaped stigma",
 "Dorsal","Macula","Macula / Blotch","Area of contrasting colour."
-"Dorsal","Fascia","Fascia","Broad band"
-"Dorsal","Stigma","Other shaped stigma",
+,,,
+,,,
 ,,,
 "#NaturalFamily","none","All families included in options","Select a family to reduce the options"
 "#NaturalFamily","Nepticulidae",,"Typically with eye-caps and metallic wings. Wing length varies from 1.5-4.5mm"
