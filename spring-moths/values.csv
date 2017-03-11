@@ -25,6 +25,7 @@
 "Basal","Line","Line","One or more lines"
 "Basal","Fascia","Fascia","Broad band"
 "Basal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Basal_Stigmata","None","None","Plain"
 "Basal_Stigmata","Dot","Dot","Single dot"
 "Basal_Stigmata","Streak","Streak",
 "Basal_Stigmata","Striae","Striae Streaks",
@@ -43,6 +44,7 @@
 "Antemedian","Line","Line","One or more lines"
 "Antemedian","Fascia","Fascia","Broad band"
 "Antemedian","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Antemedian_Stigmata","None","None","Plain"
 "Antemedian_Stigmata","Dot","Dot","Single dot"
 "Antemedian_Stigmata","Streak","Streak",
 "Antemedian_Stigmata","Striae","Striae Streaks",
@@ -56,6 +58,7 @@
 "Median","Line","Line","One or more lines"
 "Median","Fascia","Fascia","Broad band"
 "Median","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Median_Stigmata","None","None","Plain"
 "Median_Stigmata","Dot","Dot","Single dot"
 "Median_Stigmata","Streak","Streak",
 "Median_Stigmata","Striae","Striae Streaks",
@@ -67,6 +70,7 @@
 "Postmedian","Line","Line","One or more lines"
 "Postmedian","Fascia","Fascia","Broad band"
 "Postmedian","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Postmedian_Stigmata","None","None","Plain"
 "Postmedian_Stigmata","Dot","Dot","Single dot"
 "Postmedian_Stigmata","Streak","Streak",
 "Postmedian_Stigmata","Striae","Striae Streaks",
@@ -79,6 +83,7 @@
 "Terminal","Line","Line","One or more lines"
 "Terminal","Fascia","Fascia","Broad band"
 "Terminal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Terminal_Stigmata","None","None","Plain"
 "Terminal_Stigmata","Dot","Dot","Single dot"
 "Terminal_Stigmata","Streak","Streak",
 "Terminal_Stigmata","Striae","Striae Streaks",
@@ -86,36 +91,39 @@
 ,,,
 ,,,
 "#Apex  Characters",,,
-"Apical","None","None",
+"Apical","None","None","Plain"
 ,,,
 "Apical","Dots","Dots",
 "Apical","Line","Line","One or more lines"
 "Apical","Fascia","Fascia","Broad band"
 "Apical","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Apical_Stigmata","None","None","Plain"
 "Apical_Stigmata","Dot","Dot","Single dot"
 "Apical_Stigmata","Streak","Streak",
 "Apical_Stigmata","Striae","Striae Streaks",
 "Apical_Stigmata","Macula","Macula / Blotch / Stigma","Area of contrasting colour, blotch, or other mark."
 ,,,
 ,,,
-"Subapical","None","None",
+"Subapical","None","None","Plain"
 ,,,
 "Subapical","Dots","Dots",
 "Subapical","Line","Line","One or more lines"
 "Subapical","Fascia","Fascia","Broad band"
 "Subapical","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subapical_Stigmata","None","None","Plain"
 "Subapical_Stigmata","Dot","Dot","Single dot"
 "Subapical_Stigmata","Streak","Streak",
 "Subapical_Stigmata","Striae","Striae Streaks",
 "Subapical_Stigmata","Macula","Macula / Blotch / Stigma","Area of contrasting colour, blotch, or other mark."
 ,,,
 ,,,
-"Tornal","None","None",
+"Tornal","None","None","Plain"
 ,,,
 "Tornal","Dots","Dots",
 "Tornal","Line","Line","One or more lines"
 "Tornal","Fascia","Fascia","Broad band"
 "Tornal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Tornal_Stigmata","None","None","Plain"
 "Tornal_Stigmata","Dot","Dot","Single dot"
 "Tornal_Stigmata","Streak","Streak",
 "Tornal_Stigmata","Striae","Striae Streaks",
@@ -124,68 +132,74 @@
 ,,,
 ,,,
 ,,,
-"Subtornal","None","None",
+"Subtornal","None","None","Plain"
 ,,,
 "Subtornal","Dots","Dots",
 "Subtornal","Line","Line","One or more lines"
 "Subtornal","Fascia","Fascia","Broad band"
 "Subtornal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subtornal_Stigmata","None","None","Plain"
 "Subtornal_Stigmata","Dot","Dot","Single dot"
 "Subtornal_Stigmata","Streak","Streak",
 "Subtornal_Stigmata","Striae","Striae Streaks",
 "Subtornal_Stigmata","Macula","Macula / Blotch / Stigma","Area of contrasting colour, blotch, or other mark."
 ,,,
 "#Longitudinal Characters",,,
-"Costal","None","None",
+"Costal","None","None","Plain"
 ,,,
 "Costal","Dots","Dots",
 "Costal","Line","Line","One or more lines"
 "Costal","Fascia","Fascia","Broad band"
 "Costal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Costal_Stigmata","None","None","Plain"
 "Costal_Stigmata","Dot","Dot","Single dot"
 "Costal_Stigmata","Streak","Streak",
 "Costal_Stigmata","Striae","Striae Streaks",
 "Costal_Stigmata","Macula","Macula / Blotch","Area of contrasting colour."
 ,,,
-"Subcostal","None","None",
+"Subcostal","None","None","Plain"
 ,,,
 "Subcostal","Dots","Dots",
 "Subcostal","Line","Line","One or more lines"
 "Subcostal","Fascia","Fascia","Broad band"
 "Subcostal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subcostal_Stigmata","None","None","Plain"
 "Subcostal_Stigmata","Dot","Dot","Single dot"
 "Subcostal_Stigmata","Streak","Streak",
 "Subcostal_Stigmata","Striae","Striae Streaks",
 "Subcostal_Stigmata","Macula","Macula / Blotch / Stigma","Area of contrasting colour, blotch, or other mark."
 ,,,
-"Medial","None","None",
+"Medial","None","None","Plain"
 ,,,
 "Medial","Dots","Dots",
 "Medial","Line","Line","One or more lines"
 "Medial","Fascia","Fascia","Broad band"
 "Medial","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Medial_Stigmata","None","None","Plain"
 "Medial_Stigmata","Dot","Dot","Single dot"
 "Medial_Stigmata","Streak","Streak",
 "Medial_Stigmata","Striae","Striae Streaks",
 "Medial_Stigmata","Macula","Macula / Blotch / Stigma","Area of contrasting colour, blotch, or other mark."
 ,,,
-"Subdorsal","None","None",
+"Subdorsal","None","None","Plain"
 ,,,
 "Subdorsal","Dots","Dots",
 "Subdorsal","Line","Line","One or more lines"
 "Subdorsal","Fascia","Fascia","Broad band"
 "Subdorsal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Subdorsal_Stigmata","None","None","Plain"
 "Subdorsal_Stigmata","Dot","Dot","Single dot"
 "Subdorsal_Stigmata","Streak","Streak",
 "Subdorsal_Stigmata","Striae","Striae Streaks",
 "Subdorsal_Stigmata","Macula","Macula / Blotch / Stigma","Area of contrasting colour, blotch, or other mark."
 ,,,
-"Dorsal","None","None",
+"Dorsal","None","None","Plain"
 ,,,
 "Dorsal","Dots","Dots",
 "Dorsal","Line","Line","One or more lines"
 "Dorsal","Fascia","Fascia","Broad band"
 "Dorsal","Angled","Sharply angled","Zig Zags, Crescents etc."
+"Dorsal_Stigmata","None","None","Plain"
 "Dorsal_Stigmata","Dot","Dot","Single dot"
 "Dorsal_Stigmata","Streak","Streak",
 "Dorsal_Stigmata","Striae","Striae Streaks",
