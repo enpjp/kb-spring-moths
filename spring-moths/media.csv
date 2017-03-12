@@ -1,31 +1,42 @@
 "URI","ImageWidth","Type","Priority","Caption","Taxon","Character","State"
 "# 'ForewingShape' character help images",,,,,,,
-"resources/fore_wing_shape_very_narrow.png",50%,"image-local",,"Very narrow wing",,"ForewingShape","Very_narrow"
-"resources/fore_wing_shape_narrow.png",50%,"image-local",,"Narrow wing",,"ForewingShape","Narrow"
-"resources/fore_wing_shape_typical.png",50%,"image-local",,"Typical wing",,"ForewingShape","Typical"
-"resources/fore_wing_shape_broad.png",50%,"image-local",,"Broad wing",,"ForewingShape","Broad"
-"resources/fore_wing_shape_very_broad.png",50%,"image-local",,"Very broad wing",,"ForewingShape","Very_broad"
+"resources/fore_wing_shape_very_narrow.png","100%","image-local",,"Very narrow wing",,"ForewingShape","Very_narrow"
+"resources/fore_wing_shape_narrow.png","100%","image-local",,"Narrow wing",,"ForewingShape","Narrow"
+"resources/fore_wing_shape_typical.png","100%","image-local",,"Typical wing",,"ForewingShape","Typical"
+"resources/fore_wing_shape_broad.png","100%","image-local",,"Broad wing",,"ForewingShape","Broad"
+"resources/fore_wing_shape_very_broad.png","100%","image-local",,"Very broad wing",,"ForewingShape","Very_broad"
 ,,,,,,,
 "# 'ForewingColour' help images",,,,,,,
-"resources/colours/colour-wheel.png",50%,"image-local",,"Colour wheel",,"ForewingColour",
-"resources/colours/red.png",50%,"image-local",,"Red",,"ForewingColour","Red"
-"resources/colours/red-orange.png",50%,"image-local",,"Red-Orange",,"ForewingColour","Red-Orange"
-"resources/colours/orange.png",50%,"image-local",,"Orange",,"ForewingColour","Orange"
-"resources/colours/yellow-orange.png",50%,"image-local",,"Yellow-Orange",,"ForewingColour","Yellow-Orange"
-"resources/colours/yellow.png",50%,"image-local",,"Yellow",,"ForewingColour","Yellow"
-"resources/colours/yellow-green.png",50%,"image-local",,"Yellow-Green",,"ForewingColour","Yellow-Green"
-"resources/colours/green.png",50%,"image-local",,"Green",,"ForewingColour","Green"
-"resources/colours/blue-green.png",50%,"image-local",,"Blue-Green",,"ForewingColour","Blue-Green"
-"resources/colours/blue.png",50%,"image-local",,"Blue",,"ForewingColour","Blue"
-"resources/colours/greys.png",50%,"image-local",,"Greys",,"ForewingColour","Greys"
+"resources/colours/colour-wheel.png","100%","image-local",,"Colour wheel",,"ForewingColour",
+"resources/colours/red.png","100%","image-local",,"Red",,"ForewingColour","Red"
+"resources/colours/red-orange.png","100%","image-local",,"Red-Orange",,"ForewingColour","Red-Orange"
+"resources/colours/orange.png","100%","image-local",,"Orange",,"ForewingColour","Orange"
+"resources/colours/yellow-orange.png","100%","image-local",,"Yellow-Orange",,"ForewingColour","Yellow-Orange"
+"resources/colours/yellow.png","100%","image-local",,"Yellow",,"ForewingColour","Yellow"
+"resources/colours/yellow-green.png","100%","image-local",,"Yellow-Green",,"ForewingColour","Yellow-Green"
+"resources/colours/green.png","100%","image-local",,"Green",,"ForewingColour","Green"
+"resources/colours/blue-green.png","100%","image-local",,"Blue-Green",,"ForewingColour","Blue-Green"
+"resources/colours/blue.png","100%","image-local",,"Blue",,"ForewingColour","Blue"
+"resources/colours/greys.png","100%","image-local",,"Greys",,"ForewingColour","Greys"
 ,,,,,,,
 ,,,,,,,
 "# 'Posture' help images",,,,,,,
-"resources/wings_up.png",50%,"image-local",,"Wings held up sometimes touching",,"Posture","Wings_up"
-"resources/wings_spread.png",50%,"image-local",,"Wings spread out",,"Posture","Wings_spread"
-"resources/wings_flat.png",50%,"image-local",,"Wings flat across body",,"Posture","Wings_flat"
-"resources/wings_tentlike.png",50%,"image-local",,"Wings held tent like along the body ",,"Posture","Wings_tentlike"
-"resources/wings_rolled.png",50%,"image-local",,"Wings more or less rolled around the body",,"Posture","Wings_rolled"
+"resources/wings_up.png","100%","image-local",,"Wings held up sometimes touching",,"Posture","Wings_up"
+"resources/wings_spread.png","100%","image-local",,"Wings spread out",,"Posture","Wings_spread"
+"resources/wings_flat.png","100%","image-local",,"Wings flat across body",,"Posture","Wings_flat"
+"resources/wings_tentlike.png","100%","image-local",,"Wings held tent like along the body ",,"Posture","Wings_tentlike"
+"resources/wings_rolled.png","100%","image-local",,"Wings more or less rolled around the body",,"Posture","Wings_rolled"
+,,,,,,,
+"resources/wing/basal.png","100%","image-local",,"Basal features",,"Basal",
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
 ,,,,,,,
 "# Taxon HTML files…",,,,,,,
 "#resources/stigmella_aurella.html",,"html-local",,"More Info","Stigmella aurella",,
