@@ -6,7 +6,9 @@ This mean that the knowledgebase and the test html file can be in a separate git
 for ease of sharing. As new improvements to the framework are posted to git, they will not overwrite
 these files.
 
-Create the tombio framework directory using git clone <path to remote repositiry>
+Create the tombio framework directory using git clone <path to remote repository>
+
+Note that as configured, this index file will work anywhere within the document space of a webserver. On a web facing server you will probably want to copy this file to the document root of the server. That is above tombiovis and kb-spring-moths so the file is automatically loaded. If you are using multiple knowledge bases you will make a custom index.html file to call this one.
  -->
 <head>
     <meta charset="utf-8">
